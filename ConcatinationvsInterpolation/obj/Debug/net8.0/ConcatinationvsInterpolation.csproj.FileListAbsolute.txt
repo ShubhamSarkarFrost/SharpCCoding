@@ -1,0 +1,15 @@
+C:\Users\frost\source\repos\SharpCCoding\ConcatinationvsInterpolation\bin\Debug\net8.0\ConcatinationvsInterpolation.exe
+C:\Users\frost\source\repos\SharpCCoding\ConcatinationvsInterpolation\bin\Debug\net8.0\ConcatinationvsInterpolation.deps.json
+C:\Users\frost\source\repos\SharpCCoding\ConcatinationvsInterpolation\bin\Debug\net8.0\ConcatinationvsInterpolation.runtimeconfig.json
+C:\Users\frost\source\repos\SharpCCoding\ConcatinationvsInterpolation\bin\Debug\net8.0\ConcatinationvsInterpolation.dll
+C:\Users\frost\source\repos\SharpCCoding\ConcatinationvsInterpolation\bin\Debug\net8.0\ConcatinationvsInterpolation.pdb
+C:\Users\frost\source\repos\SharpCCoding\ConcatinationvsInterpolation\obj\Debug\net8.0\ConcatinationvsInterpolation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frost\source\repos\SharpCCoding\ConcatinationvsInterpolation\obj\Debug\net8.0\ConcatinationvsInterpolation.AssemblyInfoInputs.cache
+C:\Users\frost\source\repos\SharpCCoding\ConcatinationvsInterpolation\obj\Debug\net8.0\ConcatinationvsInterpolation.AssemblyInfo.cs
+C:\Users\frost\source\repos\SharpCCoding\ConcatinationvsInterpolation\obj\Debug\net8.0\ConcatinationvsInterpolation.csproj.CoreCompileInputs.cache
+C:\Users\frost\source\repos\SharpCCoding\ConcatinationvsInterpolation\obj\Debug\net8.0\ConcatinationvsInterpolation.sourcelink.json
+C:\Users\frost\source\repos\SharpCCoding\ConcatinationvsInterpolation\obj\Debug\net8.0\ConcatinationvsInterpolation.dll
+C:\Users\frost\source\repos\SharpCCoding\ConcatinationvsInterpolation\obj\Debug\net8.0\refint\ConcatinationvsInterpolation.dll
+C:\Users\frost\source\repos\SharpCCoding\ConcatinationvsInterpolation\obj\Debug\net8.0\ConcatinationvsInterpolation.pdb
+C:\Users\frost\source\repos\SharpCCoding\ConcatinationvsInterpolation\obj\Debug\net8.0\ConcatinationvsInterpolation.genruntimeconfig.cache
+C:\Users\frost\source\repos\SharpCCoding\ConcatinationvsInterpolation\obj\Debug\net8.0\ref\ConcatinationvsInterpolation.dll

@@ -1,0 +1,15 @@
+C:\Users\frost\source\repos\SharpCCoding\DemoCalc\bin\Debug\net8.0\DemoCalc.exe
+C:\Users\frost\source\repos\SharpCCoding\DemoCalc\bin\Debug\net8.0\DemoCalc.deps.json
+C:\Users\frost\source\repos\SharpCCoding\DemoCalc\bin\Debug\net8.0\DemoCalc.runtimeconfig.json
+C:\Users\frost\source\repos\SharpCCoding\DemoCalc\bin\Debug\net8.0\DemoCalc.dll
+C:\Users\frost\source\repos\SharpCCoding\DemoCalc\bin\Debug\net8.0\DemoCalc.pdb
+C:\Users\frost\source\repos\SharpCCoding\DemoCalc\obj\Debug\net8.0\DemoCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frost\source\repos\SharpCCoding\DemoCalc\obj\Debug\net8.0\DemoCalc.AssemblyInfoInputs.cache
+C:\Users\frost\source\repos\SharpCCoding\DemoCalc\obj\Debug\net8.0\DemoCalc.AssemblyInfo.cs
+C:\Users\frost\source\repos\SharpCCoding\DemoCalc\obj\Debug\net8.0\DemoCalc.csproj.CoreCompileInputs.cache
+C:\Users\frost\source\repos\SharpCCoding\DemoCalc\obj\Debug\net8.0\DemoCalc.sourcelink.json
+C:\Users\frost\source\repos\SharpCCoding\DemoCalc\obj\Debug\net8.0\DemoCalc.dll
+C:\Users\frost\source\repos\SharpCCoding\DemoCalc\obj\Debug\net8.0\refint\DemoCalc.dll
+C:\Users\frost\source\repos\SharpCCoding\DemoCalc\obj\Debug\net8.0\DemoCalc.pdb
+C:\Users\frost\source\repos\SharpCCoding\DemoCalc\obj\Debug\net8.0\DemoCalc.genruntimeconfig.cache
+C:\Users\frost\source\repos\SharpCCoding\DemoCalc\obj\Debug\net8.0\ref\DemoCalc.dll

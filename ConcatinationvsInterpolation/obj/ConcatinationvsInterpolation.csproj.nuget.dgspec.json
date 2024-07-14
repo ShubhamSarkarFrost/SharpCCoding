@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\frost\\Source\\Repos\\SharpCCoding\\Hello_World\\Hello_World.csproj": {}
+    "C:\\Users\\frost\\source\\repos\\SharpCCoding\\ConcatinationvsInterpolation\\ConcatinationvsInterpolation.csproj": {}
   },
   "projects": {
-    "C:\\Users\\frost\\Source\\Repos\\SharpCCoding\\Hello_World\\Hello_World.csproj": {
+    "C:\\Users\\frost\\source\\repos\\SharpCCoding\\ConcatinationvsInterpolation\\ConcatinationvsInterpolation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\frost\\Source\\Repos\\SharpCCoding\\Hello_World\\Hello_World.csproj",
-        "projectName": "Hello_World",
-        "projectPath": "C:\\Users\\frost\\Source\\Repos\\SharpCCoding\\Hello_World\\Hello_World.csproj",
+        "projectUniqueName": "C:\\Users\\frost\\source\\repos\\SharpCCoding\\ConcatinationvsInterpolation\\ConcatinationvsInterpolation.csproj",
+        "projectName": "ConcatinationvsInterpolation",
+        "projectPath": "C:\\Users\\frost\\source\\repos\\SharpCCoding\\ConcatinationvsInterpolation\\ConcatinationvsInterpolation.csproj",
         "packagesPath": "C:\\Users\\frost\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\frost\\source\\repos\\SharpCCoding\\Hello_World\\obj\\",
+        "outputPath": "C:\\Users\\frost\\source\\repos\\SharpCCoding\\ConcatinationvsInterpolation\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\frost\\AppData\\Roaming\\NuGet\\NuGet.Config",

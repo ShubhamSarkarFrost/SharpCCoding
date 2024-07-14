@@ -1,0 +1,15 @@
+C:\Users\frost\source\repos\SharpCCoding\VariableDefine\bin\Debug\net8.0\VariableDefine.exe
+C:\Users\frost\source\repos\SharpCCoding\VariableDefine\bin\Debug\net8.0\VariableDefine.deps.json
+C:\Users\frost\source\repos\SharpCCoding\VariableDefine\bin\Debug\net8.0\VariableDefine.runtimeconfig.json
+C:\Users\frost\source\repos\SharpCCoding\VariableDefine\bin\Debug\net8.0\VariableDefine.dll
+C:\Users\frost\source\repos\SharpCCoding\VariableDefine\bin\Debug\net8.0\VariableDefine.pdb
+C:\Users\frost\source\repos\SharpCCoding\VariableDefine\obj\Debug\net8.0\VariableDefine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frost\source\repos\SharpCCoding\VariableDefine\obj\Debug\net8.0\VariableDefine.AssemblyInfoInputs.cache
+C:\Users\frost\source\repos\SharpCCoding\VariableDefine\obj\Debug\net8.0\VariableDefine.AssemblyInfo.cs
+C:\Users\frost\source\repos\SharpCCoding\VariableDefine\obj\Debug\net8.0\VariableDefine.csproj.CoreCompileInputs.cache
+C:\Users\frost\source\repos\SharpCCoding\VariableDefine\obj\Debug\net8.0\VariableDefine.sourcelink.json
+C:\Users\frost\source\repos\SharpCCoding\VariableDefine\obj\Debug\net8.0\VariableDefine.dll
+C:\Users\frost\source\repos\SharpCCoding\VariableDefine\obj\Debug\net8.0\refint\VariableDefine.dll
+C:\Users\frost\source\repos\SharpCCoding\VariableDefine\obj\Debug\net8.0\VariableDefine.pdb
+C:\Users\frost\source\repos\SharpCCoding\VariableDefine\obj\Debug\net8.0\VariableDefine.genruntimeconfig.cache
+C:\Users\frost\source\repos\SharpCCoding\VariableDefine\obj\Debug\net8.0\ref\VariableDefine.dll
