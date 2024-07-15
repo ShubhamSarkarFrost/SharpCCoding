@@ -1,0 +1,15 @@
+C:\Users\frost\source\repos\SharpCCoding\OrderOfEvaluationC\bin\Debug\net8.0\OrderOfEvaluationC.exe
+C:\Users\frost\source\repos\SharpCCoding\OrderOfEvaluationC\bin\Debug\net8.0\OrderOfEvaluationC.deps.json
+C:\Users\frost\source\repos\SharpCCoding\OrderOfEvaluationC\bin\Debug\net8.0\OrderOfEvaluationC.runtimeconfig.json
+C:\Users\frost\source\repos\SharpCCoding\OrderOfEvaluationC\bin\Debug\net8.0\OrderOfEvaluationC.dll
+C:\Users\frost\source\repos\SharpCCoding\OrderOfEvaluationC\bin\Debug\net8.0\OrderOfEvaluationC.pdb
+C:\Users\frost\source\repos\SharpCCoding\OrderOfEvaluationC\obj\Debug\net8.0\OrderOfEvaluationC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frost\source\repos\SharpCCoding\OrderOfEvaluationC\obj\Debug\net8.0\OrderOfEvaluationC.AssemblyInfoInputs.cache
+C:\Users\frost\source\repos\SharpCCoding\OrderOfEvaluationC\obj\Debug\net8.0\OrderOfEvaluationC.AssemblyInfo.cs
+C:\Users\frost\source\repos\SharpCCoding\OrderOfEvaluationC\obj\Debug\net8.0\OrderOfEvaluationC.csproj.CoreCompileInputs.cache
+C:\Users\frost\source\repos\SharpCCoding\OrderOfEvaluationC\obj\Debug\net8.0\OrderOfEvaluationC.sourcelink.json
+C:\Users\frost\source\repos\SharpCCoding\OrderOfEvaluationC\obj\Debug\net8.0\OrderOfEvaluationC.dll
+C:\Users\frost\source\repos\SharpCCoding\OrderOfEvaluationC\obj\Debug\net8.0\refint\OrderOfEvaluationC.dll
+C:\Users\frost\source\repos\SharpCCoding\OrderOfEvaluationC\obj\Debug\net8.0\OrderOfEvaluationC.pdb
+C:\Users\frost\source\repos\SharpCCoding\OrderOfEvaluationC\obj\Debug\net8.0\OrderOfEvaluationC.genruntimeconfig.cache
+C:\Users\frost\source\repos\SharpCCoding\OrderOfEvaluationC\obj\Debug\net8.0\ref\OrderOfEvaluationC.dll

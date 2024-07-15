@@ -1,0 +1,15 @@
+C:\Users\frost\source\repos\SharpCCoding\ConversionInC\obj\Debug\net8.0\ConversionInC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frost\source\repos\SharpCCoding\ConversionInC\obj\Debug\net8.0\ConversionInC.AssemblyInfoInputs.cache
+C:\Users\frost\source\repos\SharpCCoding\ConversionInC\obj\Debug\net8.0\ConversionInC.AssemblyInfo.cs
+C:\Users\frost\source\repos\SharpCCoding\ConversionInC\obj\Debug\net8.0\ConversionInC.csproj.CoreCompileInputs.cache
+C:\Users\frost\source\repos\SharpCCoding\ConversionInC\obj\Debug\net8.0\ConversionInC.sourcelink.json
+C:\Users\frost\source\repos\SharpCCoding\ConversionInC\bin\Debug\net8.0\ConversionInC.exe
+C:\Users\frost\source\repos\SharpCCoding\ConversionInC\bin\Debug\net8.0\ConversionInC.deps.json
+C:\Users\frost\source\repos\SharpCCoding\ConversionInC\bin\Debug\net8.0\ConversionInC.runtimeconfig.json
+C:\Users\frost\source\repos\SharpCCoding\ConversionInC\bin\Debug\net8.0\ConversionInC.dll
+C:\Users\frost\source\repos\SharpCCoding\ConversionInC\bin\Debug\net8.0\ConversionInC.pdb
+C:\Users\frost\source\repos\SharpCCoding\ConversionInC\obj\Debug\net8.0\ConversionInC.dll
+C:\Users\frost\source\repos\SharpCCoding\ConversionInC\obj\Debug\net8.0\refint\ConversionInC.dll
+C:\Users\frost\source\repos\SharpCCoding\ConversionInC\obj\Debug\net8.0\ConversionInC.pdb
+C:\Users\frost\source\repos\SharpCCoding\ConversionInC\obj\Debug\net8.0\ConversionInC.genruntimeconfig.cache
+C:\Users\frost\source\repos\SharpCCoding\ConversionInC\obj\Debug\net8.0\ref\ConversionInC.dll
