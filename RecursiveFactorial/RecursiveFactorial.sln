@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecursiveFactorial", "RecursiveFactorial.csproj", "{585D6314-8996-4C87-970F-7EA9F37855ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{585D6314-8996-4C87-970F-7EA9F37855ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{585D6314-8996-4C87-970F-7EA9F37855ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{585D6314-8996-4C87-970F-7EA9F37855ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{585D6314-8996-4C87-970F-7EA9F37855ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B79C3D27-9FC0-4B5A-A279-155BF7469422}
+	EndGlobalSection
+EndGlobal
