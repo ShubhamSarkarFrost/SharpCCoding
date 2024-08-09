@@ -1,0 +1,15 @@
+C:\Users\frost\source\repos\SharpCCoding\MaximumMinimumNumber\bin\Debug\net8.0\MaximumMinimumNumber.exe
+C:\Users\frost\source\repos\SharpCCoding\MaximumMinimumNumber\bin\Debug\net8.0\MaximumMinimumNumber.deps.json
+C:\Users\frost\source\repos\SharpCCoding\MaximumMinimumNumber\bin\Debug\net8.0\MaximumMinimumNumber.runtimeconfig.json
+C:\Users\frost\source\repos\SharpCCoding\MaximumMinimumNumber\bin\Debug\net8.0\MaximumMinimumNumber.dll
+C:\Users\frost\source\repos\SharpCCoding\MaximumMinimumNumber\bin\Debug\net8.0\MaximumMinimumNumber.pdb
+C:\Users\frost\source\repos\SharpCCoding\MaximumMinimumNumber\obj\Debug\net8.0\MaximumMinimumNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frost\source\repos\SharpCCoding\MaximumMinimumNumber\obj\Debug\net8.0\MaximumMinimumNumber.AssemblyInfoInputs.cache
+C:\Users\frost\source\repos\SharpCCoding\MaximumMinimumNumber\obj\Debug\net8.0\MaximumMinimumNumber.AssemblyInfo.cs
+C:\Users\frost\source\repos\SharpCCoding\MaximumMinimumNumber\obj\Debug\net8.0\MaximumMinimumNumber.csproj.CoreCompileInputs.cache
+C:\Users\frost\source\repos\SharpCCoding\MaximumMinimumNumber\obj\Debug\net8.0\MaximumMinimumNumber.sourcelink.json
+C:\Users\frost\source\repos\SharpCCoding\MaximumMinimumNumber\obj\Debug\net8.0\MaximumMinimumNumber.dll
+C:\Users\frost\source\repos\SharpCCoding\MaximumMinimumNumber\obj\Debug\net8.0\refint\MaximumMinimumNumber.dll
+C:\Users\frost\source\repos\SharpCCoding\MaximumMinimumNumber\obj\Debug\net8.0\MaximumMinimumNumber.pdb
+C:\Users\frost\source\repos\SharpCCoding\MaximumMinimumNumber\obj\Debug\net8.0\MaximumMinimumNumber.genruntimeconfig.cache
+C:\Users\frost\source\repos\SharpCCoding\MaximumMinimumNumber\obj\Debug\net8.0\ref\MaximumMinimumNumber.dll

@@ -1,0 +1,15 @@
+C:\Users\frost\source\repos\SharpCCoding\SwapWithoutThirdVariable\bin\Debug\net8.0\SwapWithoutThirdVariable.exe
+C:\Users\frost\source\repos\SharpCCoding\SwapWithoutThirdVariable\bin\Debug\net8.0\SwapWithoutThirdVariable.deps.json
+C:\Users\frost\source\repos\SharpCCoding\SwapWithoutThirdVariable\bin\Debug\net8.0\SwapWithoutThirdVariable.runtimeconfig.json
+C:\Users\frost\source\repos\SharpCCoding\SwapWithoutThirdVariable\bin\Debug\net8.0\SwapWithoutThirdVariable.dll
+C:\Users\frost\source\repos\SharpCCoding\SwapWithoutThirdVariable\bin\Debug\net8.0\SwapWithoutThirdVariable.pdb
+C:\Users\frost\source\repos\SharpCCoding\SwapWithoutThirdVariable\obj\Debug\net8.0\SwapWithoutThirdVariable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frost\source\repos\SharpCCoding\SwapWithoutThirdVariable\obj\Debug\net8.0\SwapWithoutThirdVariable.AssemblyInfoInputs.cache
+C:\Users\frost\source\repos\SharpCCoding\SwapWithoutThirdVariable\obj\Debug\net8.0\SwapWithoutThirdVariable.AssemblyInfo.cs
+C:\Users\frost\source\repos\SharpCCoding\SwapWithoutThirdVariable\obj\Debug\net8.0\SwapWithoutThirdVariable.csproj.CoreCompileInputs.cache
+C:\Users\frost\source\repos\SharpCCoding\SwapWithoutThirdVariable\obj\Debug\net8.0\SwapWithoutThirdVariable.sourcelink.json
+C:\Users\frost\source\repos\SharpCCoding\SwapWithoutThirdVariable\obj\Debug\net8.0\SwapWithoutThirdVariable.dll
+C:\Users\frost\source\repos\SharpCCoding\SwapWithoutThirdVariable\obj\Debug\net8.0\refint\SwapWithoutThirdVariable.dll
+C:\Users\frost\source\repos\SharpCCoding\SwapWithoutThirdVariable\obj\Debug\net8.0\SwapWithoutThirdVariable.pdb
+C:\Users\frost\source\repos\SharpCCoding\SwapWithoutThirdVariable\obj\Debug\net8.0\SwapWithoutThirdVariable.genruntimeconfig.cache
+C:\Users\frost\source\repos\SharpCCoding\SwapWithoutThirdVariable\obj\Debug\net8.0\ref\SwapWithoutThirdVariable.dll

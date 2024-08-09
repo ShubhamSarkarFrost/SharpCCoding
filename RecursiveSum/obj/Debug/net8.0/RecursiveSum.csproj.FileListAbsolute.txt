@@ -1,0 +1,15 @@
+C:\Users\frost\source\repos\SharpCCoding\RecursiveSum\bin\Debug\net8.0\RecursiveSum.exe
+C:\Users\frost\source\repos\SharpCCoding\RecursiveSum\bin\Debug\net8.0\RecursiveSum.deps.json
+C:\Users\frost\source\repos\SharpCCoding\RecursiveSum\bin\Debug\net8.0\RecursiveSum.runtimeconfig.json
+C:\Users\frost\source\repos\SharpCCoding\RecursiveSum\bin\Debug\net8.0\RecursiveSum.dll
+C:\Users\frost\source\repos\SharpCCoding\RecursiveSum\bin\Debug\net8.0\RecursiveSum.pdb
+C:\Users\frost\source\repos\SharpCCoding\RecursiveSum\obj\Debug\net8.0\RecursiveSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frost\source\repos\SharpCCoding\RecursiveSum\obj\Debug\net8.0\RecursiveSum.AssemblyInfoInputs.cache
+C:\Users\frost\source\repos\SharpCCoding\RecursiveSum\obj\Debug\net8.0\RecursiveSum.AssemblyInfo.cs
+C:\Users\frost\source\repos\SharpCCoding\RecursiveSum\obj\Debug\net8.0\RecursiveSum.csproj.CoreCompileInputs.cache
+C:\Users\frost\source\repos\SharpCCoding\RecursiveSum\obj\Debug\net8.0\RecursiveSum.sourcelink.json
+C:\Users\frost\source\repos\SharpCCoding\RecursiveSum\obj\Debug\net8.0\RecursiveSum.dll
+C:\Users\frost\source\repos\SharpCCoding\RecursiveSum\obj\Debug\net8.0\refint\RecursiveSum.dll
+C:\Users\frost\source\repos\SharpCCoding\RecursiveSum\obj\Debug\net8.0\RecursiveSum.pdb
+C:\Users\frost\source\repos\SharpCCoding\RecursiveSum\obj\Debug\net8.0\RecursiveSum.genruntimeconfig.cache
+C:\Users\frost\source\repos\SharpCCoding\RecursiveSum\obj\Debug\net8.0\ref\RecursiveSum.dll

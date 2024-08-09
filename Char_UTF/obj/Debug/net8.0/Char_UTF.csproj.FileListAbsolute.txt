@@ -1,0 +1,15 @@
+C:\Users\frost\source\repos\SharpCCoding\Char_UTF\bin\Debug\net8.0\Char_UTF.exe
+C:\Users\frost\source\repos\SharpCCoding\Char_UTF\bin\Debug\net8.0\Char_UTF.deps.json
+C:\Users\frost\source\repos\SharpCCoding\Char_UTF\bin\Debug\net8.0\Char_UTF.runtimeconfig.json
+C:\Users\frost\source\repos\SharpCCoding\Char_UTF\bin\Debug\net8.0\Char_UTF.dll
+C:\Users\frost\source\repos\SharpCCoding\Char_UTF\bin\Debug\net8.0\Char_UTF.pdb
+C:\Users\frost\source\repos\SharpCCoding\Char_UTF\obj\Debug\net8.0\Char_UTF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frost\source\repos\SharpCCoding\Char_UTF\obj\Debug\net8.0\Char_UTF.AssemblyInfoInputs.cache
+C:\Users\frost\source\repos\SharpCCoding\Char_UTF\obj\Debug\net8.0\Char_UTF.AssemblyInfo.cs
+C:\Users\frost\source\repos\SharpCCoding\Char_UTF\obj\Debug\net8.0\Char_UTF.csproj.CoreCompileInputs.cache
+C:\Users\frost\source\repos\SharpCCoding\Char_UTF\obj\Debug\net8.0\Char_UTF.sourcelink.json
+C:\Users\frost\source\repos\SharpCCoding\Char_UTF\obj\Debug\net8.0\Char_UTF.dll
+C:\Users\frost\source\repos\SharpCCoding\Char_UTF\obj\Debug\net8.0\refint\Char_UTF.dll
+C:\Users\frost\source\repos\SharpCCoding\Char_UTF\obj\Debug\net8.0\Char_UTF.pdb
+C:\Users\frost\source\repos\SharpCCoding\Char_UTF\obj\Debug\net8.0\Char_UTF.genruntimeconfig.cache
+C:\Users\frost\source\repos\SharpCCoding\Char_UTF\obj\Debug\net8.0\ref\Char_UTF.dll

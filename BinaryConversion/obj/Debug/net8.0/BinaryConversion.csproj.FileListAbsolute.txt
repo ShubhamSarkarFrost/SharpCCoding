@@ -1,0 +1,15 @@
+C:\Users\frost\source\repos\SharpCCoding\BinaryConversion\bin\Debug\net8.0\BinaryConversion.exe
+C:\Users\frost\source\repos\SharpCCoding\BinaryConversion\bin\Debug\net8.0\BinaryConversion.deps.json
+C:\Users\frost\source\repos\SharpCCoding\BinaryConversion\bin\Debug\net8.0\BinaryConversion.runtimeconfig.json
+C:\Users\frost\source\repos\SharpCCoding\BinaryConversion\bin\Debug\net8.0\BinaryConversion.dll
+C:\Users\frost\source\repos\SharpCCoding\BinaryConversion\bin\Debug\net8.0\BinaryConversion.pdb
+C:\Users\frost\source\repos\SharpCCoding\BinaryConversion\obj\Debug\net8.0\BinaryConversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frost\source\repos\SharpCCoding\BinaryConversion\obj\Debug\net8.0\BinaryConversion.AssemblyInfoInputs.cache
+C:\Users\frost\source\repos\SharpCCoding\BinaryConversion\obj\Debug\net8.0\BinaryConversion.AssemblyInfo.cs
+C:\Users\frost\source\repos\SharpCCoding\BinaryConversion\obj\Debug\net8.0\BinaryConversion.csproj.CoreCompileInputs.cache
+C:\Users\frost\source\repos\SharpCCoding\BinaryConversion\obj\Debug\net8.0\BinaryConversion.sourcelink.json
+C:\Users\frost\source\repos\SharpCCoding\BinaryConversion\obj\Debug\net8.0\BinaryConversion.dll
+C:\Users\frost\source\repos\SharpCCoding\BinaryConversion\obj\Debug\net8.0\refint\BinaryConversion.dll
+C:\Users\frost\source\repos\SharpCCoding\BinaryConversion\obj\Debug\net8.0\BinaryConversion.pdb
+C:\Users\frost\source\repos\SharpCCoding\BinaryConversion\obj\Debug\net8.0\BinaryConversion.genruntimeconfig.cache
+C:\Users\frost\source\repos\SharpCCoding\BinaryConversion\obj\Debug\net8.0\ref\BinaryConversion.dll
