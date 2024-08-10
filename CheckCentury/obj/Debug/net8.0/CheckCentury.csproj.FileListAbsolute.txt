@@ -1,0 +1,15 @@
+C:\Users\frost\source\repos\SharpCCoding\CheckCentury\bin\Debug\net8.0\CheckCentury.exe
+C:\Users\frost\source\repos\SharpCCoding\CheckCentury\bin\Debug\net8.0\CheckCentury.deps.json
+C:\Users\frost\source\repos\SharpCCoding\CheckCentury\bin\Debug\net8.0\CheckCentury.runtimeconfig.json
+C:\Users\frost\source\repos\SharpCCoding\CheckCentury\bin\Debug\net8.0\CheckCentury.dll
+C:\Users\frost\source\repos\SharpCCoding\CheckCentury\bin\Debug\net8.0\CheckCentury.pdb
+C:\Users\frost\source\repos\SharpCCoding\CheckCentury\obj\Debug\net8.0\CheckCentury.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frost\source\repos\SharpCCoding\CheckCentury\obj\Debug\net8.0\CheckCentury.AssemblyInfoInputs.cache
+C:\Users\frost\source\repos\SharpCCoding\CheckCentury\obj\Debug\net8.0\CheckCentury.AssemblyInfo.cs
+C:\Users\frost\source\repos\SharpCCoding\CheckCentury\obj\Debug\net8.0\CheckCentury.csproj.CoreCompileInputs.cache
+C:\Users\frost\source\repos\SharpCCoding\CheckCentury\obj\Debug\net8.0\CheckCentury.sourcelink.json
+C:\Users\frost\source\repos\SharpCCoding\CheckCentury\obj\Debug\net8.0\CheckCentury.dll
+C:\Users\frost\source\repos\SharpCCoding\CheckCentury\obj\Debug\net8.0\refint\CheckCentury.dll
+C:\Users\frost\source\repos\SharpCCoding\CheckCentury\obj\Debug\net8.0\CheckCentury.pdb
+C:\Users\frost\source\repos\SharpCCoding\CheckCentury\obj\Debug\net8.0\CheckCentury.genruntimeconfig.cache
+C:\Users\frost\source\repos\SharpCCoding\CheckCentury\obj\Debug\net8.0\ref\CheckCentury.dll

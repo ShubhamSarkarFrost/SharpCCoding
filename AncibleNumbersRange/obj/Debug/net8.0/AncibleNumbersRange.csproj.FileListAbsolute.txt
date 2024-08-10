@@ -1,0 +1,15 @@
+C:\Users\frost\source\repos\SharpCCoding\AncibleNumbersRange\bin\Debug\net8.0\AncibleNumbersRange.exe
+C:\Users\frost\source\repos\SharpCCoding\AncibleNumbersRange\bin\Debug\net8.0\AncibleNumbersRange.deps.json
+C:\Users\frost\source\repos\SharpCCoding\AncibleNumbersRange\bin\Debug\net8.0\AncibleNumbersRange.runtimeconfig.json
+C:\Users\frost\source\repos\SharpCCoding\AncibleNumbersRange\bin\Debug\net8.0\AncibleNumbersRange.dll
+C:\Users\frost\source\repos\SharpCCoding\AncibleNumbersRange\bin\Debug\net8.0\AncibleNumbersRange.pdb
+C:\Users\frost\source\repos\SharpCCoding\AncibleNumbersRange\obj\Debug\net8.0\AncibleNumbersRange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frost\source\repos\SharpCCoding\AncibleNumbersRange\obj\Debug\net8.0\AncibleNumbersRange.AssemblyInfoInputs.cache
+C:\Users\frost\source\repos\SharpCCoding\AncibleNumbersRange\obj\Debug\net8.0\AncibleNumbersRange.AssemblyInfo.cs
+C:\Users\frost\source\repos\SharpCCoding\AncibleNumbersRange\obj\Debug\net8.0\AncibleNumbersRange.csproj.CoreCompileInputs.cache
+C:\Users\frost\source\repos\SharpCCoding\AncibleNumbersRange\obj\Debug\net8.0\AncibleNumbersRange.sourcelink.json
+C:\Users\frost\source\repos\SharpCCoding\AncibleNumbersRange\obj\Debug\net8.0\AncibleNumbersRange.dll
+C:\Users\frost\source\repos\SharpCCoding\AncibleNumbersRange\obj\Debug\net8.0\refint\AncibleNumbersRange.dll
+C:\Users\frost\source\repos\SharpCCoding\AncibleNumbersRange\obj\Debug\net8.0\AncibleNumbersRange.pdb
+C:\Users\frost\source\repos\SharpCCoding\AncibleNumbersRange\obj\Debug\net8.0\AncibleNumbersRange.genruntimeconfig.cache
+C:\Users\frost\source\repos\SharpCCoding\AncibleNumbersRange\obj\Debug\net8.0\ref\AncibleNumbersRange.dll

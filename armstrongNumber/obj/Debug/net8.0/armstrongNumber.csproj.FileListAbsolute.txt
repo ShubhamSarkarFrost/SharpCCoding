@@ -1,0 +1,15 @@
+C:\Users\frost\source\repos\SharpCCoding\armstrongNumber\bin\Debug\net8.0\armstrongNumber.exe
+C:\Users\frost\source\repos\SharpCCoding\armstrongNumber\bin\Debug\net8.0\armstrongNumber.deps.json
+C:\Users\frost\source\repos\SharpCCoding\armstrongNumber\bin\Debug\net8.0\armstrongNumber.runtimeconfig.json
+C:\Users\frost\source\repos\SharpCCoding\armstrongNumber\bin\Debug\net8.0\armstrongNumber.dll
+C:\Users\frost\source\repos\SharpCCoding\armstrongNumber\bin\Debug\net8.0\armstrongNumber.pdb
+C:\Users\frost\source\repos\SharpCCoding\armstrongNumber\obj\Debug\net8.0\armstrongNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frost\source\repos\SharpCCoding\armstrongNumber\obj\Debug\net8.0\armstrongNumber.AssemblyInfoInputs.cache
+C:\Users\frost\source\repos\SharpCCoding\armstrongNumber\obj\Debug\net8.0\armstrongNumber.AssemblyInfo.cs
+C:\Users\frost\source\repos\SharpCCoding\armstrongNumber\obj\Debug\net8.0\armstrongNumber.csproj.CoreCompileInputs.cache
+C:\Users\frost\source\repos\SharpCCoding\armstrongNumber\obj\Debug\net8.0\armstrongNumber.sourcelink.json
+C:\Users\frost\source\repos\SharpCCoding\armstrongNumber\obj\Debug\net8.0\armstrongNumber.dll
+C:\Users\frost\source\repos\SharpCCoding\armstrongNumber\obj\Debug\net8.0\refint\armstrongNumber.dll
+C:\Users\frost\source\repos\SharpCCoding\armstrongNumber\obj\Debug\net8.0\armstrongNumber.pdb
+C:\Users\frost\source\repos\SharpCCoding\armstrongNumber\obj\Debug\net8.0\armstrongNumber.genruntimeconfig.cache
+C:\Users\frost\source\repos\SharpCCoding\armstrongNumber\obj\Debug\net8.0\ref\armstrongNumber.dll
