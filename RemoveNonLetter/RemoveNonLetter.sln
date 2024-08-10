@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveNonLetter", "RemoveNonLetter.csproj", "{9C27C83B-C7B5-4D6A-B3A7-F31970962A2F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C27C83B-C7B5-4D6A-B3A7-F31970962A2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C27C83B-C7B5-4D6A-B3A7-F31970962A2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C27C83B-C7B5-4D6A-B3A7-F31970962A2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C27C83B-C7B5-4D6A-B3A7-F31970962A2F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DDE3F2D6-6E56-41BA-95A7-D2DDABC2C8F9}
+	EndGlobalSection
+EndGlobal

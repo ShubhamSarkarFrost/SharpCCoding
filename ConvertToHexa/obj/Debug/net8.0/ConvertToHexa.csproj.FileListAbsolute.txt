@@ -1,0 +1,15 @@
+C:\Users\frost\source\repos\SharpCCoding\ConvertToHexa\bin\Debug\net8.0\ConvertToHexa.exe
+C:\Users\frost\source\repos\SharpCCoding\ConvertToHexa\bin\Debug\net8.0\ConvertToHexa.deps.json
+C:\Users\frost\source\repos\SharpCCoding\ConvertToHexa\bin\Debug\net8.0\ConvertToHexa.runtimeconfig.json
+C:\Users\frost\source\repos\SharpCCoding\ConvertToHexa\bin\Debug\net8.0\ConvertToHexa.dll
+C:\Users\frost\source\repos\SharpCCoding\ConvertToHexa\bin\Debug\net8.0\ConvertToHexa.pdb
+C:\Users\frost\source\repos\SharpCCoding\ConvertToHexa\obj\Debug\net8.0\ConvertToHexa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frost\source\repos\SharpCCoding\ConvertToHexa\obj\Debug\net8.0\ConvertToHexa.AssemblyInfoInputs.cache
+C:\Users\frost\source\repos\SharpCCoding\ConvertToHexa\obj\Debug\net8.0\ConvertToHexa.AssemblyInfo.cs
+C:\Users\frost\source\repos\SharpCCoding\ConvertToHexa\obj\Debug\net8.0\ConvertToHexa.csproj.CoreCompileInputs.cache
+C:\Users\frost\source\repos\SharpCCoding\ConvertToHexa\obj\Debug\net8.0\ConvertToHexa.sourcelink.json
+C:\Users\frost\source\repos\SharpCCoding\ConvertToHexa\obj\Debug\net8.0\ConvertToHexa.dll
+C:\Users\frost\source\repos\SharpCCoding\ConvertToHexa\obj\Debug\net8.0\refint\ConvertToHexa.dll
+C:\Users\frost\source\repos\SharpCCoding\ConvertToHexa\obj\Debug\net8.0\ConvertToHexa.pdb
+C:\Users\frost\source\repos\SharpCCoding\ConvertToHexa\obj\Debug\net8.0\ConvertToHexa.genruntimeconfig.cache
+C:\Users\frost\source\repos\SharpCCoding\ConvertToHexa\obj\Debug\net8.0\ref\ConvertToHexa.dll

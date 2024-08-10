@@ -1,0 +1,15 @@
+C:\Users\frost\source\repos\SharpCCoding\WordWithoutVowels\bin\Debug\net8.0\WordWithoutVowels.exe
+C:\Users\frost\source\repos\SharpCCoding\WordWithoutVowels\bin\Debug\net8.0\WordWithoutVowels.deps.json
+C:\Users\frost\source\repos\SharpCCoding\WordWithoutVowels\bin\Debug\net8.0\WordWithoutVowels.runtimeconfig.json
+C:\Users\frost\source\repos\SharpCCoding\WordWithoutVowels\bin\Debug\net8.0\WordWithoutVowels.dll
+C:\Users\frost\source\repos\SharpCCoding\WordWithoutVowels\bin\Debug\net8.0\WordWithoutVowels.pdb
+C:\Users\frost\source\repos\SharpCCoding\WordWithoutVowels\obj\Debug\net8.0\WordWithoutVowels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frost\source\repos\SharpCCoding\WordWithoutVowels\obj\Debug\net8.0\WordWithoutVowels.AssemblyInfoInputs.cache
+C:\Users\frost\source\repos\SharpCCoding\WordWithoutVowels\obj\Debug\net8.0\WordWithoutVowels.AssemblyInfo.cs
+C:\Users\frost\source\repos\SharpCCoding\WordWithoutVowels\obj\Debug\net8.0\WordWithoutVowels.csproj.CoreCompileInputs.cache
+C:\Users\frost\source\repos\SharpCCoding\WordWithoutVowels\obj\Debug\net8.0\WordWithoutVowels.sourcelink.json
+C:\Users\frost\source\repos\SharpCCoding\WordWithoutVowels\obj\Debug\net8.0\WordWithoutVowels.dll
+C:\Users\frost\source\repos\SharpCCoding\WordWithoutVowels\obj\Debug\net8.0\refint\WordWithoutVowels.dll
+C:\Users\frost\source\repos\SharpCCoding\WordWithoutVowels\obj\Debug\net8.0\WordWithoutVowels.pdb
+C:\Users\frost\source\repos\SharpCCoding\WordWithoutVowels\obj\Debug\net8.0\WordWithoutVowels.genruntimeconfig.cache
+C:\Users\frost\source\repos\SharpCCoding\WordWithoutVowels\obj\Debug\net8.0\ref\WordWithoutVowels.dll

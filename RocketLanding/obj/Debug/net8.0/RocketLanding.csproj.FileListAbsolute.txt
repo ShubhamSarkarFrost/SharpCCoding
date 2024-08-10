@@ -1,0 +1,15 @@
+C:\Users\frost\source\repos\SharpCCoding\RocketLanding\bin\Debug\net8.0\RocketLanding.exe
+C:\Users\frost\source\repos\SharpCCoding\RocketLanding\bin\Debug\net8.0\RocketLanding.deps.json
+C:\Users\frost\source\repos\SharpCCoding\RocketLanding\bin\Debug\net8.0\RocketLanding.runtimeconfig.json
+C:\Users\frost\source\repos\SharpCCoding\RocketLanding\bin\Debug\net8.0\RocketLanding.dll
+C:\Users\frost\source\repos\SharpCCoding\RocketLanding\bin\Debug\net8.0\RocketLanding.pdb
+C:\Users\frost\source\repos\SharpCCoding\RocketLanding\obj\Debug\net8.0\RocketLanding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frost\source\repos\SharpCCoding\RocketLanding\obj\Debug\net8.0\RocketLanding.AssemblyInfoInputs.cache
+C:\Users\frost\source\repos\SharpCCoding\RocketLanding\obj\Debug\net8.0\RocketLanding.AssemblyInfo.cs
+C:\Users\frost\source\repos\SharpCCoding\RocketLanding\obj\Debug\net8.0\RocketLanding.csproj.CoreCompileInputs.cache
+C:\Users\frost\source\repos\SharpCCoding\RocketLanding\obj\Debug\net8.0\RocketLanding.sourcelink.json
+C:\Users\frost\source\repos\SharpCCoding\RocketLanding\obj\Debug\net8.0\RocketLanding.dll
+C:\Users\frost\source\repos\SharpCCoding\RocketLanding\obj\Debug\net8.0\refint\RocketLanding.dll
+C:\Users\frost\source\repos\SharpCCoding\RocketLanding\obj\Debug\net8.0\RocketLanding.pdb
+C:\Users\frost\source\repos\SharpCCoding\RocketLanding\obj\Debug\net8.0\RocketLanding.genruntimeconfig.cache
+C:\Users\frost\source\repos\SharpCCoding\RocketLanding\obj\Debug\net8.0\ref\RocketLanding.dll

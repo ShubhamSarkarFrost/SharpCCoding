@@ -1,0 +1,15 @@
+C:\Users\frost\source\repos\SharpCCoding\SwapFirstLastChar\bin\Debug\net8.0\SwapFirstLastChar.exe
+C:\Users\frost\source\repos\SharpCCoding\SwapFirstLastChar\bin\Debug\net8.0\SwapFirstLastChar.deps.json
+C:\Users\frost\source\repos\SharpCCoding\SwapFirstLastChar\bin\Debug\net8.0\SwapFirstLastChar.runtimeconfig.json
+C:\Users\frost\source\repos\SharpCCoding\SwapFirstLastChar\bin\Debug\net8.0\SwapFirstLastChar.dll
+C:\Users\frost\source\repos\SharpCCoding\SwapFirstLastChar\bin\Debug\net8.0\SwapFirstLastChar.pdb
+C:\Users\frost\source\repos\SharpCCoding\SwapFirstLastChar\obj\Debug\net8.0\SwapFirstLastChar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frost\source\repos\SharpCCoding\SwapFirstLastChar\obj\Debug\net8.0\SwapFirstLastChar.AssemblyInfoInputs.cache
+C:\Users\frost\source\repos\SharpCCoding\SwapFirstLastChar\obj\Debug\net8.0\SwapFirstLastChar.AssemblyInfo.cs
+C:\Users\frost\source\repos\SharpCCoding\SwapFirstLastChar\obj\Debug\net8.0\SwapFirstLastChar.csproj.CoreCompileInputs.cache
+C:\Users\frost\source\repos\SharpCCoding\SwapFirstLastChar\obj\Debug\net8.0\SwapFirstLastChar.sourcelink.json
+C:\Users\frost\source\repos\SharpCCoding\SwapFirstLastChar\obj\Debug\net8.0\SwapFirstLastChar.dll
+C:\Users\frost\source\repos\SharpCCoding\SwapFirstLastChar\obj\Debug\net8.0\refint\SwapFirstLastChar.dll
+C:\Users\frost\source\repos\SharpCCoding\SwapFirstLastChar\obj\Debug\net8.0\SwapFirstLastChar.pdb
+C:\Users\frost\source\repos\SharpCCoding\SwapFirstLastChar\obj\Debug\net8.0\SwapFirstLastChar.genruntimeconfig.cache
+C:\Users\frost\source\repos\SharpCCoding\SwapFirstLastChar\obj\Debug\net8.0\ref\SwapFirstLastChar.dll

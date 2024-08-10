@@ -1,0 +1,15 @@
+C:\Users\frost\source\repos\SharpCCoding\HexaToDec\bin\Debug\net8.0\HexaToDec.exe
+C:\Users\frost\source\repos\SharpCCoding\HexaToDec\bin\Debug\net8.0\HexaToDec.deps.json
+C:\Users\frost\source\repos\SharpCCoding\HexaToDec\bin\Debug\net8.0\HexaToDec.runtimeconfig.json
+C:\Users\frost\source\repos\SharpCCoding\HexaToDec\bin\Debug\net8.0\HexaToDec.dll
+C:\Users\frost\source\repos\SharpCCoding\HexaToDec\bin\Debug\net8.0\HexaToDec.pdb
+C:\Users\frost\source\repos\SharpCCoding\HexaToDec\obj\Debug\net8.0\HexaToDec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frost\source\repos\SharpCCoding\HexaToDec\obj\Debug\net8.0\HexaToDec.AssemblyInfoInputs.cache
+C:\Users\frost\source\repos\SharpCCoding\HexaToDec\obj\Debug\net8.0\HexaToDec.AssemblyInfo.cs
+C:\Users\frost\source\repos\SharpCCoding\HexaToDec\obj\Debug\net8.0\HexaToDec.csproj.CoreCompileInputs.cache
+C:\Users\frost\source\repos\SharpCCoding\HexaToDec\obj\Debug\net8.0\HexaToDec.sourcelink.json
+C:\Users\frost\source\repos\SharpCCoding\HexaToDec\obj\Debug\net8.0\HexaToDec.dll
+C:\Users\frost\source\repos\SharpCCoding\HexaToDec\obj\Debug\net8.0\refint\HexaToDec.dll
+C:\Users\frost\source\repos\SharpCCoding\HexaToDec\obj\Debug\net8.0\HexaToDec.pdb
+C:\Users\frost\source\repos\SharpCCoding\HexaToDec\obj\Debug\net8.0\HexaToDec.genruntimeconfig.cache
+C:\Users\frost\source\repos\SharpCCoding\HexaToDec\obj\Debug\net8.0\ref\HexaToDec.dll
