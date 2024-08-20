@@ -1,0 +1,15 @@
+C:\Users\frost\source\repos\SortWordInSentence\bin\Debug\net8.0\SortWordInSentence.exe
+C:\Users\frost\source\repos\SortWordInSentence\bin\Debug\net8.0\SortWordInSentence.deps.json
+C:\Users\frost\source\repos\SortWordInSentence\bin\Debug\net8.0\SortWordInSentence.runtimeconfig.json
+C:\Users\frost\source\repos\SortWordInSentence\bin\Debug\net8.0\SortWordInSentence.dll
+C:\Users\frost\source\repos\SortWordInSentence\bin\Debug\net8.0\SortWordInSentence.pdb
+C:\Users\frost\source\repos\SortWordInSentence\obj\Debug\net8.0\SortWordInSentence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frost\source\repos\SortWordInSentence\obj\Debug\net8.0\SortWordInSentence.AssemblyInfoInputs.cache
+C:\Users\frost\source\repos\SortWordInSentence\obj\Debug\net8.0\SortWordInSentence.AssemblyInfo.cs
+C:\Users\frost\source\repos\SortWordInSentence\obj\Debug\net8.0\SortWordInSentence.csproj.CoreCompileInputs.cache
+C:\Users\frost\source\repos\SortWordInSentence\obj\Debug\net8.0\SortWordInSentence.sourcelink.json
+C:\Users\frost\source\repos\SortWordInSentence\obj\Debug\net8.0\SortWordInSentence.dll
+C:\Users\frost\source\repos\SortWordInSentence\obj\Debug\net8.0\refint\SortWordInSentence.dll
+C:\Users\frost\source\repos\SortWordInSentence\obj\Debug\net8.0\SortWordInSentence.pdb
+C:\Users\frost\source\repos\SortWordInSentence\obj\Debug\net8.0\SortWordInSentence.genruntimeconfig.cache
+C:\Users\frost\source\repos\SortWordInSentence\obj\Debug\net8.0\ref\SortWordInSentence.dll

@@ -1,0 +1,15 @@
+C:\Users\frost\source\repos\IdentityMatrixCreate\bin\Debug\net8.0\IdentityMatrixCreate.exe
+C:\Users\frost\source\repos\IdentityMatrixCreate\bin\Debug\net8.0\IdentityMatrixCreate.deps.json
+C:\Users\frost\source\repos\IdentityMatrixCreate\bin\Debug\net8.0\IdentityMatrixCreate.runtimeconfig.json
+C:\Users\frost\source\repos\IdentityMatrixCreate\bin\Debug\net8.0\IdentityMatrixCreate.dll
+C:\Users\frost\source\repos\IdentityMatrixCreate\bin\Debug\net8.0\IdentityMatrixCreate.pdb
+C:\Users\frost\source\repos\IdentityMatrixCreate\obj\Debug\net8.0\IdentityMatrixCreate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frost\source\repos\IdentityMatrixCreate\obj\Debug\net8.0\IdentityMatrixCreate.AssemblyInfoInputs.cache
+C:\Users\frost\source\repos\IdentityMatrixCreate\obj\Debug\net8.0\IdentityMatrixCreate.AssemblyInfo.cs
+C:\Users\frost\source\repos\IdentityMatrixCreate\obj\Debug\net8.0\IdentityMatrixCreate.csproj.CoreCompileInputs.cache
+C:\Users\frost\source\repos\IdentityMatrixCreate\obj\Debug\net8.0\IdentityMatrixCreate.sourcelink.json
+C:\Users\frost\source\repos\IdentityMatrixCreate\obj\Debug\net8.0\IdentityMatrixCreate.dll
+C:\Users\frost\source\repos\IdentityMatrixCreate\obj\Debug\net8.0\refint\IdentityMatrixCreate.dll
+C:\Users\frost\source\repos\IdentityMatrixCreate\obj\Debug\net8.0\IdentityMatrixCreate.pdb
+C:\Users\frost\source\repos\IdentityMatrixCreate\obj\Debug\net8.0\IdentityMatrixCreate.genruntimeconfig.cache
+C:\Users\frost\source\repos\IdentityMatrixCreate\obj\Debug\net8.0\ref\IdentityMatrixCreate.dll

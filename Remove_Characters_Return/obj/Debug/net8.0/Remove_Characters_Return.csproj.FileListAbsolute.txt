@@ -1,0 +1,15 @@
+C:\Users\frost\source\repos\Remove_Characters_Return\bin\Debug\net8.0\Remove_Characters_Return.exe
+C:\Users\frost\source\repos\Remove_Characters_Return\bin\Debug\net8.0\Remove_Characters_Return.deps.json
+C:\Users\frost\source\repos\Remove_Characters_Return\bin\Debug\net8.0\Remove_Characters_Return.runtimeconfig.json
+C:\Users\frost\source\repos\Remove_Characters_Return\bin\Debug\net8.0\Remove_Characters_Return.dll
+C:\Users\frost\source\repos\Remove_Characters_Return\bin\Debug\net8.0\Remove_Characters_Return.pdb
+C:\Users\frost\source\repos\Remove_Characters_Return\obj\Debug\net8.0\Remove_Characters_Return.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frost\source\repos\Remove_Characters_Return\obj\Debug\net8.0\Remove_Characters_Return.AssemblyInfoInputs.cache
+C:\Users\frost\source\repos\Remove_Characters_Return\obj\Debug\net8.0\Remove_Characters_Return.AssemblyInfo.cs
+C:\Users\frost\source\repos\Remove_Characters_Return\obj\Debug\net8.0\Remove_Characters_Return.csproj.CoreCompileInputs.cache
+C:\Users\frost\source\repos\Remove_Characters_Return\obj\Debug\net8.0\Remove_Characters_Return.sourcelink.json
+C:\Users\frost\source\repos\Remove_Characters_Return\obj\Debug\net8.0\Remove_Characters_Return.dll
+C:\Users\frost\source\repos\Remove_Characters_Return\obj\Debug\net8.0\refint\Remove_Characters_Return.dll
+C:\Users\frost\source\repos\Remove_Characters_Return\obj\Debug\net8.0\Remove_Characters_Return.pdb
+C:\Users\frost\source\repos\Remove_Characters_Return\obj\Debug\net8.0\Remove_Characters_Return.genruntimeconfig.cache
+C:\Users\frost\source\repos\Remove_Characters_Return\obj\Debug\net8.0\ref\Remove_Characters_Return.dll

@@ -1,0 +1,15 @@
+C:\Users\frost\source\repos\NoVowels\obj\Debug\net8.0\NoVowels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frost\source\repos\NoVowels\obj\Debug\net8.0\NoVowels.AssemblyInfoInputs.cache
+C:\Users\frost\source\repos\NoVowels\obj\Debug\net8.0\NoVowels.AssemblyInfo.cs
+C:\Users\frost\source\repos\NoVowels\obj\Debug\net8.0\NoVowels.csproj.CoreCompileInputs.cache
+C:\Users\frost\source\repos\NoVowels\obj\Debug\net8.0\NoVowels.sourcelink.json
+C:\Users\frost\source\repos\NoVowels\bin\Debug\net8.0\NoVowels.exe
+C:\Users\frost\source\repos\NoVowels\bin\Debug\net8.0\NoVowels.deps.json
+C:\Users\frost\source\repos\NoVowels\bin\Debug\net8.0\NoVowels.runtimeconfig.json
+C:\Users\frost\source\repos\NoVowels\bin\Debug\net8.0\NoVowels.dll
+C:\Users\frost\source\repos\NoVowels\bin\Debug\net8.0\NoVowels.pdb
+C:\Users\frost\source\repos\NoVowels\obj\Debug\net8.0\NoVowels.dll
+C:\Users\frost\source\repos\NoVowels\obj\Debug\net8.0\refint\NoVowels.dll
+C:\Users\frost\source\repos\NoVowels\obj\Debug\net8.0\NoVowels.pdb
+C:\Users\frost\source\repos\NoVowels\obj\Debug\net8.0\NoVowels.genruntimeconfig.cache
+C:\Users\frost\source\repos\NoVowels\obj\Debug\net8.0\ref\NoVowels.dll

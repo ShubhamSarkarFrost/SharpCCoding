@@ -1,0 +1,15 @@
+C:\Users\frost\source\repos\CountZerosandOnesInBinary\bin\Debug\net8.0\CountZerosandOnesInBinary.exe
+C:\Users\frost\source\repos\CountZerosandOnesInBinary\bin\Debug\net8.0\CountZerosandOnesInBinary.deps.json
+C:\Users\frost\source\repos\CountZerosandOnesInBinary\bin\Debug\net8.0\CountZerosandOnesInBinary.runtimeconfig.json
+C:\Users\frost\source\repos\CountZerosandOnesInBinary\bin\Debug\net8.0\CountZerosandOnesInBinary.dll
+C:\Users\frost\source\repos\CountZerosandOnesInBinary\bin\Debug\net8.0\CountZerosandOnesInBinary.pdb
+C:\Users\frost\source\repos\CountZerosandOnesInBinary\obj\Debug\net8.0\CountZerosandOnesInBinary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frost\source\repos\CountZerosandOnesInBinary\obj\Debug\net8.0\CountZerosandOnesInBinary.AssemblyInfoInputs.cache
+C:\Users\frost\source\repos\CountZerosandOnesInBinary\obj\Debug\net8.0\CountZerosandOnesInBinary.AssemblyInfo.cs
+C:\Users\frost\source\repos\CountZerosandOnesInBinary\obj\Debug\net8.0\CountZerosandOnesInBinary.csproj.CoreCompileInputs.cache
+C:\Users\frost\source\repos\CountZerosandOnesInBinary\obj\Debug\net8.0\CountZerosandOnesInBinary.sourcelink.json
+C:\Users\frost\source\repos\CountZerosandOnesInBinary\obj\Debug\net8.0\CountZerosandOnesInBinary.dll
+C:\Users\frost\source\repos\CountZerosandOnesInBinary\obj\Debug\net8.0\refint\CountZerosandOnesInBinary.dll
+C:\Users\frost\source\repos\CountZerosandOnesInBinary\obj\Debug\net8.0\CountZerosandOnesInBinary.pdb
+C:\Users\frost\source\repos\CountZerosandOnesInBinary\obj\Debug\net8.0\CountZerosandOnesInBinary.genruntimeconfig.cache
+C:\Users\frost\source\repos\CountZerosandOnesInBinary\obj\Debug\net8.0\ref\CountZerosandOnesInBinary.dll

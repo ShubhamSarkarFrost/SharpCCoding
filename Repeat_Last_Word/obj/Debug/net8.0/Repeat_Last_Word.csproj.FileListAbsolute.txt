@@ -1,0 +1,15 @@
+C:\Users\frost\source\repos\Repeat_Last_Word\bin\Debug\net8.0\Repeat_Last_Word.exe
+C:\Users\frost\source\repos\Repeat_Last_Word\bin\Debug\net8.0\Repeat_Last_Word.deps.json
+C:\Users\frost\source\repos\Repeat_Last_Word\bin\Debug\net8.0\Repeat_Last_Word.runtimeconfig.json
+C:\Users\frost\source\repos\Repeat_Last_Word\bin\Debug\net8.0\Repeat_Last_Word.dll
+C:\Users\frost\source\repos\Repeat_Last_Word\bin\Debug\net8.0\Repeat_Last_Word.pdb
+C:\Users\frost\source\repos\Repeat_Last_Word\obj\Debug\net8.0\Repeat_Last_Word.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frost\source\repos\Repeat_Last_Word\obj\Debug\net8.0\Repeat_Last_Word.AssemblyInfoInputs.cache
+C:\Users\frost\source\repos\Repeat_Last_Word\obj\Debug\net8.0\Repeat_Last_Word.AssemblyInfo.cs
+C:\Users\frost\source\repos\Repeat_Last_Word\obj\Debug\net8.0\Repeat_Last_Word.csproj.CoreCompileInputs.cache
+C:\Users\frost\source\repos\Repeat_Last_Word\obj\Debug\net8.0\Repeat_Last_Word.sourcelink.json
+C:\Users\frost\source\repos\Repeat_Last_Word\obj\Debug\net8.0\Repeat_Last_Word.dll
+C:\Users\frost\source\repos\Repeat_Last_Word\obj\Debug\net8.0\refint\Repeat_Last_Word.dll
+C:\Users\frost\source\repos\Repeat_Last_Word\obj\Debug\net8.0\Repeat_Last_Word.pdb
+C:\Users\frost\source\repos\Repeat_Last_Word\obj\Debug\net8.0\Repeat_Last_Word.genruntimeconfig.cache
+C:\Users\frost\source\repos\Repeat_Last_Word\obj\Debug\net8.0\ref\Repeat_Last_Word.dll

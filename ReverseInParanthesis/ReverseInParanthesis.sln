@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseInParanthesis", "ReverseInParanthesis.csproj", "{4FD0ACE7-1848-46DF-B922-6B9FEA5F2296}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FD0ACE7-1848-46DF-B922-6B9FEA5F2296}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FD0ACE7-1848-46DF-B922-6B9FEA5F2296}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FD0ACE7-1848-46DF-B922-6B9FEA5F2296}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FD0ACE7-1848-46DF-B922-6B9FEA5F2296}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F8FED2A7-985D-4B75-95C4-A557262656B9}
+	EndGlobalSection
+EndGlobal
