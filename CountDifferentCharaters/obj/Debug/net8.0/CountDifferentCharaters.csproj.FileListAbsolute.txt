@@ -1,0 +1,15 @@
+C:\Users\frost\source\repos\CountDifferentCharaters\bin\Debug\net8.0\CountDifferentCharaters.exe
+C:\Users\frost\source\repos\CountDifferentCharaters\bin\Debug\net8.0\CountDifferentCharaters.deps.json
+C:\Users\frost\source\repos\CountDifferentCharaters\bin\Debug\net8.0\CountDifferentCharaters.runtimeconfig.json
+C:\Users\frost\source\repos\CountDifferentCharaters\bin\Debug\net8.0\CountDifferentCharaters.dll
+C:\Users\frost\source\repos\CountDifferentCharaters\bin\Debug\net8.0\CountDifferentCharaters.pdb
+C:\Users\frost\source\repos\CountDifferentCharaters\obj\Debug\net8.0\CountDifferentCharaters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frost\source\repos\CountDifferentCharaters\obj\Debug\net8.0\CountDifferentCharaters.AssemblyInfoInputs.cache
+C:\Users\frost\source\repos\CountDifferentCharaters\obj\Debug\net8.0\CountDifferentCharaters.AssemblyInfo.cs
+C:\Users\frost\source\repos\CountDifferentCharaters\obj\Debug\net8.0\CountDifferentCharaters.csproj.CoreCompileInputs.cache
+C:\Users\frost\source\repos\CountDifferentCharaters\obj\Debug\net8.0\CountDifferentCharaters.sourcelink.json
+C:\Users\frost\source\repos\CountDifferentCharaters\obj\Debug\net8.0\CountDifferentCharaters.dll
+C:\Users\frost\source\repos\CountDifferentCharaters\obj\Debug\net8.0\refint\CountDifferentCharaters.dll
+C:\Users\frost\source\repos\CountDifferentCharaters\obj\Debug\net8.0\CountDifferentCharaters.pdb
+C:\Users\frost\source\repos\CountDifferentCharaters\obj\Debug\net8.0\CountDifferentCharaters.genruntimeconfig.cache
+C:\Users\frost\source\repos\CountDifferentCharaters\obj\Debug\net8.0\ref\CountDifferentCharaters.dll

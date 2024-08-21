@@ -1,0 +1,15 @@
+C:\Users\frost\source\repos\SwapLastTwo\bin\Debug\net8.0\SwapLastTwo.exe
+C:\Users\frost\source\repos\SwapLastTwo\bin\Debug\net8.0\SwapLastTwo.deps.json
+C:\Users\frost\source\repos\SwapLastTwo\bin\Debug\net8.0\SwapLastTwo.runtimeconfig.json
+C:\Users\frost\source\repos\SwapLastTwo\bin\Debug\net8.0\SwapLastTwo.dll
+C:\Users\frost\source\repos\SwapLastTwo\bin\Debug\net8.0\SwapLastTwo.pdb
+C:\Users\frost\source\repos\SwapLastTwo\obj\Debug\net8.0\SwapLastTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frost\source\repos\SwapLastTwo\obj\Debug\net8.0\SwapLastTwo.AssemblyInfoInputs.cache
+C:\Users\frost\source\repos\SwapLastTwo\obj\Debug\net8.0\SwapLastTwo.AssemblyInfo.cs
+C:\Users\frost\source\repos\SwapLastTwo\obj\Debug\net8.0\SwapLastTwo.csproj.CoreCompileInputs.cache
+C:\Users\frost\source\repos\SwapLastTwo\obj\Debug\net8.0\SwapLastTwo.sourcelink.json
+C:\Users\frost\source\repos\SwapLastTwo\obj\Debug\net8.0\SwapLastTwo.dll
+C:\Users\frost\source\repos\SwapLastTwo\obj\Debug\net8.0\refint\SwapLastTwo.dll
+C:\Users\frost\source\repos\SwapLastTwo\obj\Debug\net8.0\SwapLastTwo.pdb
+C:\Users\frost\source\repos\SwapLastTwo\obj\Debug\net8.0\SwapLastTwo.genruntimeconfig.cache
+C:\Users\frost\source\repos\SwapLastTwo\obj\Debug\net8.0\ref\SwapLastTwo.dll
