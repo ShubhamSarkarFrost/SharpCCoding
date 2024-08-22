@@ -1,0 +1,15 @@
+C:\Users\frost\source\repos\printUniqueInArray\bin\Debug\net8.0\printUniqueInArray.exe
+C:\Users\frost\source\repos\printUniqueInArray\bin\Debug\net8.0\printUniqueInArray.deps.json
+C:\Users\frost\source\repos\printUniqueInArray\bin\Debug\net8.0\printUniqueInArray.runtimeconfig.json
+C:\Users\frost\source\repos\printUniqueInArray\bin\Debug\net8.0\printUniqueInArray.dll
+C:\Users\frost\source\repos\printUniqueInArray\bin\Debug\net8.0\printUniqueInArray.pdb
+C:\Users\frost\source\repos\printUniqueInArray\obj\Debug\net8.0\printUniqueInArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frost\source\repos\printUniqueInArray\obj\Debug\net8.0\printUniqueInArray.AssemblyInfoInputs.cache
+C:\Users\frost\source\repos\printUniqueInArray\obj\Debug\net8.0\printUniqueInArray.AssemblyInfo.cs
+C:\Users\frost\source\repos\printUniqueInArray\obj\Debug\net8.0\printUniqueInArray.csproj.CoreCompileInputs.cache
+C:\Users\frost\source\repos\printUniqueInArray\obj\Debug\net8.0\printUniqueInArray.sourcelink.json
+C:\Users\frost\source\repos\printUniqueInArray\obj\Debug\net8.0\printUniqueInArray.dll
+C:\Users\frost\source\repos\printUniqueInArray\obj\Debug\net8.0\refint\printUniqueInArray.dll
+C:\Users\frost\source\repos\printUniqueInArray\obj\Debug\net8.0\printUniqueInArray.pdb
+C:\Users\frost\source\repos\printUniqueInArray\obj\Debug\net8.0\printUniqueInArray.genruntimeconfig.cache
+C:\Users\frost\source\repos\printUniqueInArray\obj\Debug\net8.0\ref\printUniqueInArray.dll

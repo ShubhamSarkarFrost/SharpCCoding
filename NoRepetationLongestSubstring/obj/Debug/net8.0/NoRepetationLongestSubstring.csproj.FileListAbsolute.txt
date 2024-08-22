@@ -1,0 +1,15 @@
+C:\Users\frost\source\repos\NoRepetationLongestSubstring\bin\Debug\net8.0\NoRepetationLongestSubstring.exe
+C:\Users\frost\source\repos\NoRepetationLongestSubstring\bin\Debug\net8.0\NoRepetationLongestSubstring.deps.json
+C:\Users\frost\source\repos\NoRepetationLongestSubstring\bin\Debug\net8.0\NoRepetationLongestSubstring.runtimeconfig.json
+C:\Users\frost\source\repos\NoRepetationLongestSubstring\bin\Debug\net8.0\NoRepetationLongestSubstring.dll
+C:\Users\frost\source\repos\NoRepetationLongestSubstring\bin\Debug\net8.0\NoRepetationLongestSubstring.pdb
+C:\Users\frost\source\repos\NoRepetationLongestSubstring\obj\Debug\net8.0\NoRepetationLongestSubstring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frost\source\repos\NoRepetationLongestSubstring\obj\Debug\net8.0\NoRepetationLongestSubstring.AssemblyInfoInputs.cache
+C:\Users\frost\source\repos\NoRepetationLongestSubstring\obj\Debug\net8.0\NoRepetationLongestSubstring.AssemblyInfo.cs
+C:\Users\frost\source\repos\NoRepetationLongestSubstring\obj\Debug\net8.0\NoRepetationLongestSubstring.csproj.CoreCompileInputs.cache
+C:\Users\frost\source\repos\NoRepetationLongestSubstring\obj\Debug\net8.0\NoRepetationLongestSubstring.sourcelink.json
+C:\Users\frost\source\repos\NoRepetationLongestSubstring\obj\Debug\net8.0\NoRepetationLongestSubstring.dll
+C:\Users\frost\source\repos\NoRepetationLongestSubstring\obj\Debug\net8.0\refint\NoRepetationLongestSubstring.dll
+C:\Users\frost\source\repos\NoRepetationLongestSubstring\obj\Debug\net8.0\NoRepetationLongestSubstring.pdb
+C:\Users\frost\source\repos\NoRepetationLongestSubstring\obj\Debug\net8.0\NoRepetationLongestSubstring.genruntimeconfig.cache
+C:\Users\frost\source\repos\NoRepetationLongestSubstring\obj\Debug\net8.0\ref\NoRepetationLongestSubstring.dll
