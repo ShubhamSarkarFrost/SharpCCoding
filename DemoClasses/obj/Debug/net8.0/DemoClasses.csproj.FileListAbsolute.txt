@@ -1,0 +1,15 @@
+C:\Users\frost\source\repos\DemoClasses\bin\Debug\net8.0\DemoClasses.exe
+C:\Users\frost\source\repos\DemoClasses\bin\Debug\net8.0\DemoClasses.deps.json
+C:\Users\frost\source\repos\DemoClasses\bin\Debug\net8.0\DemoClasses.runtimeconfig.json
+C:\Users\frost\source\repos\DemoClasses\bin\Debug\net8.0\DemoClasses.dll
+C:\Users\frost\source\repos\DemoClasses\bin\Debug\net8.0\DemoClasses.pdb
+C:\Users\frost\source\repos\DemoClasses\obj\Debug\net8.0\DemoClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frost\source\repos\DemoClasses\obj\Debug\net8.0\DemoClasses.AssemblyInfoInputs.cache
+C:\Users\frost\source\repos\DemoClasses\obj\Debug\net8.0\DemoClasses.AssemblyInfo.cs
+C:\Users\frost\source\repos\DemoClasses\obj\Debug\net8.0\DemoClasses.csproj.CoreCompileInputs.cache
+C:\Users\frost\source\repos\DemoClasses\obj\Debug\net8.0\DemoClasses.sourcelink.json
+C:\Users\frost\source\repos\DemoClasses\obj\Debug\net8.0\DemoClasses.dll
+C:\Users\frost\source\repos\DemoClasses\obj\Debug\net8.0\refint\DemoClasses.dll
+C:\Users\frost\source\repos\DemoClasses\obj\Debug\net8.0\DemoClasses.pdb
+C:\Users\frost\source\repos\DemoClasses\obj\Debug\net8.0\DemoClasses.genruntimeconfig.cache
+C:\Users\frost\source\repos\DemoClasses\obj\Debug\net8.0\ref\DemoClasses.dll
