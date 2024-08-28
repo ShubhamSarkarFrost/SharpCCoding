@@ -1,0 +1,15 @@
+C:\Users\frost\source\repos\FindSpaces\bin\Debug\net8.0\FindSpaces.exe
+C:\Users\frost\source\repos\FindSpaces\bin\Debug\net8.0\FindSpaces.deps.json
+C:\Users\frost\source\repos\FindSpaces\bin\Debug\net8.0\FindSpaces.runtimeconfig.json
+C:\Users\frost\source\repos\FindSpaces\bin\Debug\net8.0\FindSpaces.dll
+C:\Users\frost\source\repos\FindSpaces\bin\Debug\net8.0\FindSpaces.pdb
+C:\Users\frost\source\repos\FindSpaces\obj\Debug\net8.0\FindSpaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frost\source\repos\FindSpaces\obj\Debug\net8.0\FindSpaces.AssemblyInfoInputs.cache
+C:\Users\frost\source\repos\FindSpaces\obj\Debug\net8.0\FindSpaces.AssemblyInfo.cs
+C:\Users\frost\source\repos\FindSpaces\obj\Debug\net8.0\FindSpaces.csproj.CoreCompileInputs.cache
+C:\Users\frost\source\repos\FindSpaces\obj\Debug\net8.0\FindSpaces.sourcelink.json
+C:\Users\frost\source\repos\FindSpaces\obj\Debug\net8.0\FindSpaces.dll
+C:\Users\frost\source\repos\FindSpaces\obj\Debug\net8.0\refint\FindSpaces.dll
+C:\Users\frost\source\repos\FindSpaces\obj\Debug\net8.0\FindSpaces.pdb
+C:\Users\frost\source\repos\FindSpaces\obj\Debug\net8.0\FindSpaces.genruntimeconfig.cache
+C:\Users\frost\source\repos\FindSpaces\obj\Debug\net8.0\ref\FindSpaces.dll

@@ -1,0 +1,15 @@
+C:\Users\frost\source\repos\MaximumOccurance\bin\Debug\net8.0\MaximumOccurance.exe
+C:\Users\frost\source\repos\MaximumOccurance\bin\Debug\net8.0\MaximumOccurance.deps.json
+C:\Users\frost\source\repos\MaximumOccurance\bin\Debug\net8.0\MaximumOccurance.runtimeconfig.json
+C:\Users\frost\source\repos\MaximumOccurance\bin\Debug\net8.0\MaximumOccurance.dll
+C:\Users\frost\source\repos\MaximumOccurance\bin\Debug\net8.0\MaximumOccurance.pdb
+C:\Users\frost\source\repos\MaximumOccurance\obj\Debug\net8.0\MaximumOccurance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frost\source\repos\MaximumOccurance\obj\Debug\net8.0\MaximumOccurance.AssemblyInfoInputs.cache
+C:\Users\frost\source\repos\MaximumOccurance\obj\Debug\net8.0\MaximumOccurance.AssemblyInfo.cs
+C:\Users\frost\source\repos\MaximumOccurance\obj\Debug\net8.0\MaximumOccurance.csproj.CoreCompileInputs.cache
+C:\Users\frost\source\repos\MaximumOccurance\obj\Debug\net8.0\MaximumOccurance.sourcelink.json
+C:\Users\frost\source\repos\MaximumOccurance\obj\Debug\net8.0\MaximumOccurance.dll
+C:\Users\frost\source\repos\MaximumOccurance\obj\Debug\net8.0\refint\MaximumOccurance.dll
+C:\Users\frost\source\repos\MaximumOccurance\obj\Debug\net8.0\MaximumOccurance.pdb
+C:\Users\frost\source\repos\MaximumOccurance\obj\Debug\net8.0\MaximumOccurance.genruntimeconfig.cache
+C:\Users\frost\source\repos\MaximumOccurance\obj\Debug\net8.0\ref\MaximumOccurance.dll
