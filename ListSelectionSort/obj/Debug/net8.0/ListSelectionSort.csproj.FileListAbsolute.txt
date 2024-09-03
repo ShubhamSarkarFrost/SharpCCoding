@@ -1,0 +1,15 @@
+C:\Users\frost\source\repos\ListSelectionSort\obj\Debug\net8.0\ListSelectionSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frost\source\repos\ListSelectionSort\obj\Debug\net8.0\ListSelectionSort.AssemblyInfoInputs.cache
+C:\Users\frost\source\repos\ListSelectionSort\obj\Debug\net8.0\ListSelectionSort.AssemblyInfo.cs
+C:\Users\frost\source\repos\ListSelectionSort\obj\Debug\net8.0\ListSelectionSort.csproj.CoreCompileInputs.cache
+C:\Users\frost\source\repos\ListSelectionSort\obj\Debug\net8.0\ListSelectionSort.sourcelink.json
+C:\Users\frost\source\repos\ListSelectionSort\bin\Debug\net8.0\ListSelectionSort.exe
+C:\Users\frost\source\repos\ListSelectionSort\bin\Debug\net8.0\ListSelectionSort.deps.json
+C:\Users\frost\source\repos\ListSelectionSort\bin\Debug\net8.0\ListSelectionSort.runtimeconfig.json
+C:\Users\frost\source\repos\ListSelectionSort\bin\Debug\net8.0\ListSelectionSort.dll
+C:\Users\frost\source\repos\ListSelectionSort\bin\Debug\net8.0\ListSelectionSort.pdb
+C:\Users\frost\source\repos\ListSelectionSort\obj\Debug\net8.0\ListSelectionSort.dll
+C:\Users\frost\source\repos\ListSelectionSort\obj\Debug\net8.0\refint\ListSelectionSort.dll
+C:\Users\frost\source\repos\ListSelectionSort\obj\Debug\net8.0\ListSelectionSort.pdb
+C:\Users\frost\source\repos\ListSelectionSort\obj\Debug\net8.0\ListSelectionSort.genruntimeconfig.cache
+C:\Users\frost\source\repos\ListSelectionSort\obj\Debug\net8.0\ref\ListSelectionSort.dll

@@ -1,0 +1,15 @@
+C:\Users\frost\source\repos\ArrayListCollections\bin\Debug\net8.0\ArrayListCollections.exe
+C:\Users\frost\source\repos\ArrayListCollections\bin\Debug\net8.0\ArrayListCollections.deps.json
+C:\Users\frost\source\repos\ArrayListCollections\bin\Debug\net8.0\ArrayListCollections.runtimeconfig.json
+C:\Users\frost\source\repos\ArrayListCollections\bin\Debug\net8.0\ArrayListCollections.dll
+C:\Users\frost\source\repos\ArrayListCollections\bin\Debug\net8.0\ArrayListCollections.pdb
+C:\Users\frost\source\repos\ArrayListCollections\obj\Debug\net8.0\ArrayListCollections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frost\source\repos\ArrayListCollections\obj\Debug\net8.0\ArrayListCollections.AssemblyInfoInputs.cache
+C:\Users\frost\source\repos\ArrayListCollections\obj\Debug\net8.0\ArrayListCollections.AssemblyInfo.cs
+C:\Users\frost\source\repos\ArrayListCollections\obj\Debug\net8.0\ArrayListCollections.csproj.CoreCompileInputs.cache
+C:\Users\frost\source\repos\ArrayListCollections\obj\Debug\net8.0\ArrayListCollections.sourcelink.json
+C:\Users\frost\source\repos\ArrayListCollections\obj\Debug\net8.0\ArrayListCollections.dll
+C:\Users\frost\source\repos\ArrayListCollections\obj\Debug\net8.0\refint\ArrayListCollections.dll
+C:\Users\frost\source\repos\ArrayListCollections\obj\Debug\net8.0\ArrayListCollections.pdb
+C:\Users\frost\source\repos\ArrayListCollections\obj\Debug\net8.0\ArrayListCollections.genruntimeconfig.cache
+C:\Users\frost\source\repos\ArrayListCollections\obj\Debug\net8.0\ref\ArrayListCollections.dll

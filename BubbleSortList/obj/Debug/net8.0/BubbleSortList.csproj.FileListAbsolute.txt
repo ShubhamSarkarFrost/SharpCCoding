@@ -1,0 +1,15 @@
+C:\Users\frost\source\repos\BubbleSortList\bin\Debug\net8.0\BubbleSortList.exe
+C:\Users\frost\source\repos\BubbleSortList\bin\Debug\net8.0\BubbleSortList.deps.json
+C:\Users\frost\source\repos\BubbleSortList\bin\Debug\net8.0\BubbleSortList.runtimeconfig.json
+C:\Users\frost\source\repos\BubbleSortList\bin\Debug\net8.0\BubbleSortList.dll
+C:\Users\frost\source\repos\BubbleSortList\bin\Debug\net8.0\BubbleSortList.pdb
+C:\Users\frost\source\repos\BubbleSortList\obj\Debug\net8.0\BubbleSortList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frost\source\repos\BubbleSortList\obj\Debug\net8.0\BubbleSortList.AssemblyInfoInputs.cache
+C:\Users\frost\source\repos\BubbleSortList\obj\Debug\net8.0\BubbleSortList.AssemblyInfo.cs
+C:\Users\frost\source\repos\BubbleSortList\obj\Debug\net8.0\BubbleSortList.csproj.CoreCompileInputs.cache
+C:\Users\frost\source\repos\BubbleSortList\obj\Debug\net8.0\BubbleSortList.sourcelink.json
+C:\Users\frost\source\repos\BubbleSortList\obj\Debug\net8.0\BubbleSortList.dll
+C:\Users\frost\source\repos\BubbleSortList\obj\Debug\net8.0\refint\BubbleSortList.dll
+C:\Users\frost\source\repos\BubbleSortList\obj\Debug\net8.0\BubbleSortList.pdb
+C:\Users\frost\source\repos\BubbleSortList\obj\Debug\net8.0\BubbleSortList.genruntimeconfig.cache
+C:\Users\frost\source\repos\BubbleSortList\obj\Debug\net8.0\ref\BubbleSortList.dll
