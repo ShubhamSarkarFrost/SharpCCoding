@@ -1,0 +1,15 @@
+C:\Users\frost\source\repos\DirectoryExists\obj\Debug\net8.0\DirectoryExists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frost\source\repos\DirectoryExists\obj\Debug\net8.0\DirectoryExists.AssemblyInfoInputs.cache
+C:\Users\frost\source\repos\DirectoryExists\obj\Debug\net8.0\DirectoryExists.AssemblyInfo.cs
+C:\Users\frost\source\repos\DirectoryExists\obj\Debug\net8.0\DirectoryExists.csproj.CoreCompileInputs.cache
+C:\Users\frost\source\repos\DirectoryExists\obj\Debug\net8.0\DirectoryExists.sourcelink.json
+C:\Users\frost\source\repos\DirectoryExists\bin\Debug\net8.0\DirectoryExists.exe
+C:\Users\frost\source\repos\DirectoryExists\bin\Debug\net8.0\DirectoryExists.deps.json
+C:\Users\frost\source\repos\DirectoryExists\bin\Debug\net8.0\DirectoryExists.runtimeconfig.json
+C:\Users\frost\source\repos\DirectoryExists\bin\Debug\net8.0\DirectoryExists.dll
+C:\Users\frost\source\repos\DirectoryExists\bin\Debug\net8.0\DirectoryExists.pdb
+C:\Users\frost\source\repos\DirectoryExists\obj\Debug\net8.0\DirectoryExists.dll
+C:\Users\frost\source\repos\DirectoryExists\obj\Debug\net8.0\refint\DirectoryExists.dll
+C:\Users\frost\source\repos\DirectoryExists\obj\Debug\net8.0\DirectoryExists.pdb
+C:\Users\frost\source\repos\DirectoryExists\obj\Debug\net8.0\DirectoryExists.genruntimeconfig.cache
+C:\Users\frost\source\repos\DirectoryExists\obj\Debug\net8.0\ref\DirectoryExists.dll

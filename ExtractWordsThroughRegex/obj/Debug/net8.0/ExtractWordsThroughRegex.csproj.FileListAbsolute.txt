@@ -1,0 +1,15 @@
+C:\Users\frost\source\repos\ExtractWordsThroughRegex\obj\Debug\net8.0\ExtractWordsThroughRegex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frost\source\repos\ExtractWordsThroughRegex\obj\Debug\net8.0\ExtractWordsThroughRegex.AssemblyInfoInputs.cache
+C:\Users\frost\source\repos\ExtractWordsThroughRegex\obj\Debug\net8.0\ExtractWordsThroughRegex.AssemblyInfo.cs
+C:\Users\frost\source\repos\ExtractWordsThroughRegex\obj\Debug\net8.0\ExtractWordsThroughRegex.csproj.CoreCompileInputs.cache
+C:\Users\frost\source\repos\ExtractWordsThroughRegex\obj\Debug\net8.0\ExtractWordsThroughRegex.sourcelink.json
+C:\Users\frost\source\repos\ExtractWordsThroughRegex\bin\Debug\net8.0\ExtractWordsThroughRegex.exe
+C:\Users\frost\source\repos\ExtractWordsThroughRegex\bin\Debug\net8.0\ExtractWordsThroughRegex.deps.json
+C:\Users\frost\source\repos\ExtractWordsThroughRegex\bin\Debug\net8.0\ExtractWordsThroughRegex.runtimeconfig.json
+C:\Users\frost\source\repos\ExtractWordsThroughRegex\bin\Debug\net8.0\ExtractWordsThroughRegex.dll
+C:\Users\frost\source\repos\ExtractWordsThroughRegex\bin\Debug\net8.0\ExtractWordsThroughRegex.pdb
+C:\Users\frost\source\repos\ExtractWordsThroughRegex\obj\Debug\net8.0\ExtractWordsThroughRegex.dll
+C:\Users\frost\source\repos\ExtractWordsThroughRegex\obj\Debug\net8.0\refint\ExtractWordsThroughRegex.dll
+C:\Users\frost\source\repos\ExtractWordsThroughRegex\obj\Debug\net8.0\ExtractWordsThroughRegex.pdb
+C:\Users\frost\source\repos\ExtractWordsThroughRegex\obj\Debug\net8.0\ExtractWordsThroughRegex.genruntimeconfig.cache
+C:\Users\frost\source\repos\ExtractWordsThroughRegex\obj\Debug\net8.0\ref\ExtractWordsThroughRegex.dll
