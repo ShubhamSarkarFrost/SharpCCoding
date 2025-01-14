@@ -1,0 +1,15 @@
+C:\Users\frost\source\repos\Practice_One_List_with_Loop\bin\Debug\net8.0\Practice_One_List_with_Loop.exe
+C:\Users\frost\source\repos\Practice_One_List_with_Loop\bin\Debug\net8.0\Practice_One_List_with_Loop.deps.json
+C:\Users\frost\source\repos\Practice_One_List_with_Loop\bin\Debug\net8.0\Practice_One_List_with_Loop.runtimeconfig.json
+C:\Users\frost\source\repos\Practice_One_List_with_Loop\bin\Debug\net8.0\Practice_One_List_with_Loop.dll
+C:\Users\frost\source\repos\Practice_One_List_with_Loop\bin\Debug\net8.0\Practice_One_List_with_Loop.pdb
+C:\Users\frost\source\repos\Practice_One_List_with_Loop\obj\Debug\net8.0\Practice_One_List_with_Loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frost\source\repos\Practice_One_List_with_Loop\obj\Debug\net8.0\Practice_One_List_with_Loop.AssemblyInfoInputs.cache
+C:\Users\frost\source\repos\Practice_One_List_with_Loop\obj\Debug\net8.0\Practice_One_List_with_Loop.AssemblyInfo.cs
+C:\Users\frost\source\repos\Practice_One_List_with_Loop\obj\Debug\net8.0\Practice_One_List_with_Loop.csproj.CoreCompileInputs.cache
+C:\Users\frost\source\repos\Practice_One_List_with_Loop\obj\Debug\net8.0\Practice_One_List_with_Loop.sourcelink.json
+C:\Users\frost\source\repos\Practice_One_List_with_Loop\obj\Debug\net8.0\Practice_One_List_with_Loop.dll
+C:\Users\frost\source\repos\Practice_One_List_with_Loop\obj\Debug\net8.0\refint\Practice_One_List_with_Loop.dll
+C:\Users\frost\source\repos\Practice_One_List_with_Loop\obj\Debug\net8.0\Practice_One_List_with_Loop.pdb
+C:\Users\frost\source\repos\Practice_One_List_with_Loop\obj\Debug\net8.0\Practice_One_List_with_Loop.genruntimeconfig.cache
+C:\Users\frost\source\repos\Practice_One_List_with_Loop\obj\Debug\net8.0\ref\Practice_One_List_with_Loop.dll

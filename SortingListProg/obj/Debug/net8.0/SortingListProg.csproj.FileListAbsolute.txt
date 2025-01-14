@@ -1,0 +1,15 @@
+C:\Users\frost\source\repos\SortingListProg\bin\Debug\net8.0\SortingListProg.exe
+C:\Users\frost\source\repos\SortingListProg\bin\Debug\net8.0\SortingListProg.deps.json
+C:\Users\frost\source\repos\SortingListProg\bin\Debug\net8.0\SortingListProg.runtimeconfig.json
+C:\Users\frost\source\repos\SortingListProg\bin\Debug\net8.0\SortingListProg.dll
+C:\Users\frost\source\repos\SortingListProg\bin\Debug\net8.0\SortingListProg.pdb
+C:\Users\frost\source\repos\SortingListProg\obj\Debug\net8.0\SortingListProg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frost\source\repos\SortingListProg\obj\Debug\net8.0\SortingListProg.AssemblyInfoInputs.cache
+C:\Users\frost\source\repos\SortingListProg\obj\Debug\net8.0\SortingListProg.AssemblyInfo.cs
+C:\Users\frost\source\repos\SortingListProg\obj\Debug\net8.0\SortingListProg.csproj.CoreCompileInputs.cache
+C:\Users\frost\source\repos\SortingListProg\obj\Debug\net8.0\SortingListProg.sourcelink.json
+C:\Users\frost\source\repos\SortingListProg\obj\Debug\net8.0\SortingListProg.dll
+C:\Users\frost\source\repos\SortingListProg\obj\Debug\net8.0\refint\SortingListProg.dll
+C:\Users\frost\source\repos\SortingListProg\obj\Debug\net8.0\SortingListProg.pdb
+C:\Users\frost\source\repos\SortingListProg\obj\Debug\net8.0\SortingListProg.genruntimeconfig.cache
+C:\Users\frost\source\repos\SortingListProg\obj\Debug\net8.0\ref\SortingListProg.dll
