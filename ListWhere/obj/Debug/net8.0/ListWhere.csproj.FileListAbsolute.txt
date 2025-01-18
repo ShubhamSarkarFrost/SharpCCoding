@@ -1,0 +1,15 @@
+C:\Users\frost\source\repos\ListWhere\bin\Debug\net8.0\ListWhere.exe
+C:\Users\frost\source\repos\ListWhere\bin\Debug\net8.0\ListWhere.deps.json
+C:\Users\frost\source\repos\ListWhere\bin\Debug\net8.0\ListWhere.runtimeconfig.json
+C:\Users\frost\source\repos\ListWhere\bin\Debug\net8.0\ListWhere.dll
+C:\Users\frost\source\repos\ListWhere\bin\Debug\net8.0\ListWhere.pdb
+C:\Users\frost\source\repos\ListWhere\obj\Debug\net8.0\ListWhere.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frost\source\repos\ListWhere\obj\Debug\net8.0\ListWhere.AssemblyInfoInputs.cache
+C:\Users\frost\source\repos\ListWhere\obj\Debug\net8.0\ListWhere.AssemblyInfo.cs
+C:\Users\frost\source\repos\ListWhere\obj\Debug\net8.0\ListWhere.csproj.CoreCompileInputs.cache
+C:\Users\frost\source\repos\ListWhere\obj\Debug\net8.0\ListWhere.sourcelink.json
+C:\Users\frost\source\repos\ListWhere\obj\Debug\net8.0\ListWhere.dll
+C:\Users\frost\source\repos\ListWhere\obj\Debug\net8.0\refint\ListWhere.dll
+C:\Users\frost\source\repos\ListWhere\obj\Debug\net8.0\ListWhere.pdb
+C:\Users\frost\source\repos\ListWhere\obj\Debug\net8.0\ListWhere.genruntimeconfig.cache
+C:\Users\frost\source\repos\ListWhere\obj\Debug\net8.0\ref\ListWhere.dll

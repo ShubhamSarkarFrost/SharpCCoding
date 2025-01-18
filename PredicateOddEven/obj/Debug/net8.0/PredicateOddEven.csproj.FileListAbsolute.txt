@@ -1,0 +1,15 @@
+C:\Users\frost\source\repos\PredicateOddEven\bin\Debug\net8.0\PredicateOddEven.exe
+C:\Users\frost\source\repos\PredicateOddEven\bin\Debug\net8.0\PredicateOddEven.deps.json
+C:\Users\frost\source\repos\PredicateOddEven\bin\Debug\net8.0\PredicateOddEven.runtimeconfig.json
+C:\Users\frost\source\repos\PredicateOddEven\bin\Debug\net8.0\PredicateOddEven.dll
+C:\Users\frost\source\repos\PredicateOddEven\bin\Debug\net8.0\PredicateOddEven.pdb
+C:\Users\frost\source\repos\PredicateOddEven\obj\Debug\net8.0\PredicateOddEven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frost\source\repos\PredicateOddEven\obj\Debug\net8.0\PredicateOddEven.AssemblyInfoInputs.cache
+C:\Users\frost\source\repos\PredicateOddEven\obj\Debug\net8.0\PredicateOddEven.AssemblyInfo.cs
+C:\Users\frost\source\repos\PredicateOddEven\obj\Debug\net8.0\PredicateOddEven.csproj.CoreCompileInputs.cache
+C:\Users\frost\source\repos\PredicateOddEven\obj\Debug\net8.0\PredicateOddEven.sourcelink.json
+C:\Users\frost\source\repos\PredicateOddEven\obj\Debug\net8.0\PredicateOddEven.dll
+C:\Users\frost\source\repos\PredicateOddEven\obj\Debug\net8.0\refint\PredicateOddEven.dll
+C:\Users\frost\source\repos\PredicateOddEven\obj\Debug\net8.0\PredicateOddEven.pdb
+C:\Users\frost\source\repos\PredicateOddEven\obj\Debug\net8.0\PredicateOddEven.genruntimeconfig.cache
+C:\Users\frost\source\repos\PredicateOddEven\obj\Debug\net8.0\ref\PredicateOddEven.dll

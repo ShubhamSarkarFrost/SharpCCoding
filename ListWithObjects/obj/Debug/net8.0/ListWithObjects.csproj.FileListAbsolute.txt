@@ -1,0 +1,15 @@
+C:\Users\frost\source\repos\ListWithObjects\obj\Debug\net8.0\ListWithObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frost\source\repos\ListWithObjects\obj\Debug\net8.0\ListWithObjects.AssemblyInfoInputs.cache
+C:\Users\frost\source\repos\ListWithObjects\obj\Debug\net8.0\ListWithObjects.AssemblyInfo.cs
+C:\Users\frost\source\repos\ListWithObjects\obj\Debug\net8.0\ListWithObjects.csproj.CoreCompileInputs.cache
+C:\Users\frost\source\repos\ListWithObjects\obj\Debug\net8.0\ListWithObjects.sourcelink.json
+C:\Users\frost\source\repos\ListWithObjects\bin\Debug\net8.0\ListWithObjects.exe
+C:\Users\frost\source\repos\ListWithObjects\bin\Debug\net8.0\ListWithObjects.deps.json
+C:\Users\frost\source\repos\ListWithObjects\bin\Debug\net8.0\ListWithObjects.runtimeconfig.json
+C:\Users\frost\source\repos\ListWithObjects\bin\Debug\net8.0\ListWithObjects.dll
+C:\Users\frost\source\repos\ListWithObjects\bin\Debug\net8.0\ListWithObjects.pdb
+C:\Users\frost\source\repos\ListWithObjects\obj\Debug\net8.0\ListWithObjects.dll
+C:\Users\frost\source\repos\ListWithObjects\obj\Debug\net8.0\refint\ListWithObjects.dll
+C:\Users\frost\source\repos\ListWithObjects\obj\Debug\net8.0\ListWithObjects.pdb
+C:\Users\frost\source\repos\ListWithObjects\obj\Debug\net8.0\ListWithObjects.genruntimeconfig.cache
+C:\Users\frost\source\repos\ListWithObjects\obj\Debug\net8.0\ref\ListWithObjects.dll

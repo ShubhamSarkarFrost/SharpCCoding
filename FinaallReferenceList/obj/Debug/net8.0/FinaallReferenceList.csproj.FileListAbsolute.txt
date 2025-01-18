@@ -1,0 +1,15 @@
+C:\Users\frost\source\repos\FinaallReferenceList\bin\Debug\net8.0\FinaallReferenceList.exe
+C:\Users\frost\source\repos\FinaallReferenceList\bin\Debug\net8.0\FinaallReferenceList.deps.json
+C:\Users\frost\source\repos\FinaallReferenceList\bin\Debug\net8.0\FinaallReferenceList.runtimeconfig.json
+C:\Users\frost\source\repos\FinaallReferenceList\bin\Debug\net8.0\FinaallReferenceList.dll
+C:\Users\frost\source\repos\FinaallReferenceList\bin\Debug\net8.0\FinaallReferenceList.pdb
+C:\Users\frost\source\repos\FinaallReferenceList\obj\Debug\net8.0\FinaallReferenceList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frost\source\repos\FinaallReferenceList\obj\Debug\net8.0\FinaallReferenceList.AssemblyInfoInputs.cache
+C:\Users\frost\source\repos\FinaallReferenceList\obj\Debug\net8.0\FinaallReferenceList.AssemblyInfo.cs
+C:\Users\frost\source\repos\FinaallReferenceList\obj\Debug\net8.0\FinaallReferenceList.csproj.CoreCompileInputs.cache
+C:\Users\frost\source\repos\FinaallReferenceList\obj\Debug\net8.0\FinaallReferenceList.sourcelink.json
+C:\Users\frost\source\repos\FinaallReferenceList\obj\Debug\net8.0\FinaallReferenceList.dll
+C:\Users\frost\source\repos\FinaallReferenceList\obj\Debug\net8.0\refint\FinaallReferenceList.dll
+C:\Users\frost\source\repos\FinaallReferenceList\obj\Debug\net8.0\FinaallReferenceList.pdb
+C:\Users\frost\source\repos\FinaallReferenceList\obj\Debug\net8.0\FinaallReferenceList.genruntimeconfig.cache
+C:\Users\frost\source\repos\FinaallReferenceList\obj\Debug\net8.0\ref\FinaallReferenceList.dll

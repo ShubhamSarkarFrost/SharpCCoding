@@ -1,0 +1,15 @@
+C:\Users\frost\source\repos\valNullable\bin\Debug\net8.0\valNullable.exe
+C:\Users\frost\source\repos\valNullable\bin\Debug\net8.0\valNullable.deps.json
+C:\Users\frost\source\repos\valNullable\bin\Debug\net8.0\valNullable.runtimeconfig.json
+C:\Users\frost\source\repos\valNullable\bin\Debug\net8.0\valNullable.dll
+C:\Users\frost\source\repos\valNullable\bin\Debug\net8.0\valNullable.pdb
+C:\Users\frost\source\repos\valNullable\obj\Debug\net8.0\valNullable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frost\source\repos\valNullable\obj\Debug\net8.0\valNullable.AssemblyInfoInputs.cache
+C:\Users\frost\source\repos\valNullable\obj\Debug\net8.0\valNullable.AssemblyInfo.cs
+C:\Users\frost\source\repos\valNullable\obj\Debug\net8.0\valNullable.csproj.CoreCompileInputs.cache
+C:\Users\frost\source\repos\valNullable\obj\Debug\net8.0\valNullable.sourcelink.json
+C:\Users\frost\source\repos\valNullable\obj\Debug\net8.0\valNullable.dll
+C:\Users\frost\source\repos\valNullable\obj\Debug\net8.0\refint\valNullable.dll
+C:\Users\frost\source\repos\valNullable\obj\Debug\net8.0\valNullable.pdb
+C:\Users\frost\source\repos\valNullable\obj\Debug\net8.0\valNullable.genruntimeconfig.cache
+C:\Users\frost\source\repos\valNullable\obj\Debug\net8.0\ref\valNullable.dll
