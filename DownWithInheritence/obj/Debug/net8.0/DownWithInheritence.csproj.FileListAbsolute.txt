@@ -1,0 +1,15 @@
+C:\Users\frost\source\repos\DownWithInheritence\bin\Debug\net8.0\DownWithInheritence.exe
+C:\Users\frost\source\repos\DownWithInheritence\bin\Debug\net8.0\DownWithInheritence.deps.json
+C:\Users\frost\source\repos\DownWithInheritence\bin\Debug\net8.0\DownWithInheritence.runtimeconfig.json
+C:\Users\frost\source\repos\DownWithInheritence\bin\Debug\net8.0\DownWithInheritence.dll
+C:\Users\frost\source\repos\DownWithInheritence\bin\Debug\net8.0\DownWithInheritence.pdb
+C:\Users\frost\source\repos\DownWithInheritence\obj\Debug\net8.0\DownWithInheritence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frost\source\repos\DownWithInheritence\obj\Debug\net8.0\DownWithInheritence.AssemblyInfoInputs.cache
+C:\Users\frost\source\repos\DownWithInheritence\obj\Debug\net8.0\DownWithInheritence.AssemblyInfo.cs
+C:\Users\frost\source\repos\DownWithInheritence\obj\Debug\net8.0\DownWithInheritence.csproj.CoreCompileInputs.cache
+C:\Users\frost\source\repos\DownWithInheritence\obj\Debug\net8.0\DownWithInheritence.sourcelink.json
+C:\Users\frost\source\repos\DownWithInheritence\obj\Debug\net8.0\DownWithInheritence.dll
+C:\Users\frost\source\repos\DownWithInheritence\obj\Debug\net8.0\refint\DownWithInheritence.dll
+C:\Users\frost\source\repos\DownWithInheritence\obj\Debug\net8.0\DownWithInheritence.pdb
+C:\Users\frost\source\repos\DownWithInheritence\obj\Debug\net8.0\DownWithInheritence.genruntimeconfig.cache
+C:\Users\frost\source\repos\DownWithInheritence\obj\Debug\net8.0\ref\DownWithInheritence.dll
