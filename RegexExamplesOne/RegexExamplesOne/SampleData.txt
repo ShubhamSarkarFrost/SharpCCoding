@@ -1,0 +1,44 @@
+﻿John Doe
+jane.doe@example.com
+admin@company.co.uk
++1-202-555-0173
+(202) 555-0198
+123 Main St., Springfield, IL 62704
+PO Box 12345
+https://www.example.com
+http://subdomain.example.co.uk/page?id=42
+192.168.1.1
+255.255.255.0
+03/25/2025
+2025-04-18
+18-04-2025
+25 Mar 2025
+12:45 PM
+23:59
+Username_01
+user-name.99
+AB123456789CD
+TX-918237-AZ
+#FF5733
+rgb(255,99,71)
+hello123
+password123!
+Super$ecret123
+123456
+000-00-0000
+SSN: 123-45-6789
+Invoice #INV-2024-04567
+OrderID: ORD998877
+<book id="bk101">XML Content</book>
+{
+  "name": "Alice",
+  "age": 30,
+  "email": "alice@example.com"
+}
+The quick brown fox jumps over the lazy dog.
+Price: $199.99
+€89.50
+42.195 km
+Weight: 70kg
+Latitude: 37.7749° N
+Longitude: 122.4194° W
