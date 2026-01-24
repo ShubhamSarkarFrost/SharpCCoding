@@ -1,0 +1,15 @@
+C:\Users\frost\CSharpProjects\SharpCCoding\DayWeekEnums\DayWeekEnums\bin\Debug\net9.0\DayWeekEnums.exe
+C:\Users\frost\CSharpProjects\SharpCCoding\DayWeekEnums\DayWeekEnums\bin\Debug\net9.0\DayWeekEnums.deps.json
+C:\Users\frost\CSharpProjects\SharpCCoding\DayWeekEnums\DayWeekEnums\bin\Debug\net9.0\DayWeekEnums.runtimeconfig.json
+C:\Users\frost\CSharpProjects\SharpCCoding\DayWeekEnums\DayWeekEnums\bin\Debug\net9.0\DayWeekEnums.dll
+C:\Users\frost\CSharpProjects\SharpCCoding\DayWeekEnums\DayWeekEnums\bin\Debug\net9.0\DayWeekEnums.pdb
+C:\Users\frost\CSharpProjects\SharpCCoding\DayWeekEnums\DayWeekEnums\obj\Debug\net9.0\DayWeekEnums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frost\CSharpProjects\SharpCCoding\DayWeekEnums\DayWeekEnums\obj\Debug\net9.0\DayWeekEnums.AssemblyInfoInputs.cache
+C:\Users\frost\CSharpProjects\SharpCCoding\DayWeekEnums\DayWeekEnums\obj\Debug\net9.0\DayWeekEnums.AssemblyInfo.cs
+C:\Users\frost\CSharpProjects\SharpCCoding\DayWeekEnums\DayWeekEnums\obj\Debug\net9.0\DayWeekEnums.csproj.CoreCompileInputs.cache
+C:\Users\frost\CSharpProjects\SharpCCoding\DayWeekEnums\DayWeekEnums\obj\Debug\net9.0\DayWeekEnums.sourcelink.json
+C:\Users\frost\CSharpProjects\SharpCCoding\DayWeekEnums\DayWeekEnums\obj\Debug\net9.0\DayWeekEnums.dll
+C:\Users\frost\CSharpProjects\SharpCCoding\DayWeekEnums\DayWeekEnums\obj\Debug\net9.0\refint\DayWeekEnums.dll
+C:\Users\frost\CSharpProjects\SharpCCoding\DayWeekEnums\DayWeekEnums\obj\Debug\net9.0\DayWeekEnums.pdb
+C:\Users\frost\CSharpProjects\SharpCCoding\DayWeekEnums\DayWeekEnums\obj\Debug\net9.0\DayWeekEnums.genruntimeconfig.cache
+C:\Users\frost\CSharpProjects\SharpCCoding\DayWeekEnums\DayWeekEnums\obj\Debug\net9.0\ref\DayWeekEnums.dll

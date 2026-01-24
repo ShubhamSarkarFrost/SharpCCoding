@@ -1,0 +1,15 @@
+C:\Users\frost\CSharpProjects\SharpCCoding\ClassBook\ClassBook\bin\Debug\net9.0\ClassBook.exe
+C:\Users\frost\CSharpProjects\SharpCCoding\ClassBook\ClassBook\bin\Debug\net9.0\ClassBook.deps.json
+C:\Users\frost\CSharpProjects\SharpCCoding\ClassBook\ClassBook\bin\Debug\net9.0\ClassBook.runtimeconfig.json
+C:\Users\frost\CSharpProjects\SharpCCoding\ClassBook\ClassBook\bin\Debug\net9.0\ClassBook.dll
+C:\Users\frost\CSharpProjects\SharpCCoding\ClassBook\ClassBook\bin\Debug\net9.0\ClassBook.pdb
+C:\Users\frost\CSharpProjects\SharpCCoding\ClassBook\ClassBook\obj\Debug\net9.0\ClassBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frost\CSharpProjects\SharpCCoding\ClassBook\ClassBook\obj\Debug\net9.0\ClassBook.AssemblyInfoInputs.cache
+C:\Users\frost\CSharpProjects\SharpCCoding\ClassBook\ClassBook\obj\Debug\net9.0\ClassBook.AssemblyInfo.cs
+C:\Users\frost\CSharpProjects\SharpCCoding\ClassBook\ClassBook\obj\Debug\net9.0\ClassBook.csproj.CoreCompileInputs.cache
+C:\Users\frost\CSharpProjects\SharpCCoding\ClassBook\ClassBook\obj\Debug\net9.0\ClassBook.sourcelink.json
+C:\Users\frost\CSharpProjects\SharpCCoding\ClassBook\ClassBook\obj\Debug\net9.0\ClassBook.dll
+C:\Users\frost\CSharpProjects\SharpCCoding\ClassBook\ClassBook\obj\Debug\net9.0\refint\ClassBook.dll
+C:\Users\frost\CSharpProjects\SharpCCoding\ClassBook\ClassBook\obj\Debug\net9.0\ClassBook.pdb
+C:\Users\frost\CSharpProjects\SharpCCoding\ClassBook\ClassBook\obj\Debug\net9.0\ClassBook.genruntimeconfig.cache
+C:\Users\frost\CSharpProjects\SharpCCoding\ClassBook\ClassBook\obj\Debug\net9.0\ref\ClassBook.dll
