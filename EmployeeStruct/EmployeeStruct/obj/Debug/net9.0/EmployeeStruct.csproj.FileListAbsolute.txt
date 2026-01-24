@@ -1,0 +1,15 @@
+C:\Users\frost\CSharpProjects\SharpCCoding\EmployeeStruct\EmployeeStruct\bin\Debug\net9.0\EmployeeStruct.exe
+C:\Users\frost\CSharpProjects\SharpCCoding\EmployeeStruct\EmployeeStruct\bin\Debug\net9.0\EmployeeStruct.deps.json
+C:\Users\frost\CSharpProjects\SharpCCoding\EmployeeStruct\EmployeeStruct\bin\Debug\net9.0\EmployeeStruct.runtimeconfig.json
+C:\Users\frost\CSharpProjects\SharpCCoding\EmployeeStruct\EmployeeStruct\bin\Debug\net9.0\EmployeeStruct.dll
+C:\Users\frost\CSharpProjects\SharpCCoding\EmployeeStruct\EmployeeStruct\bin\Debug\net9.0\EmployeeStruct.pdb
+C:\Users\frost\CSharpProjects\SharpCCoding\EmployeeStruct\EmployeeStruct\obj\Debug\net9.0\EmployeeStruct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frost\CSharpProjects\SharpCCoding\EmployeeStruct\EmployeeStruct\obj\Debug\net9.0\EmployeeStruct.AssemblyInfoInputs.cache
+C:\Users\frost\CSharpProjects\SharpCCoding\EmployeeStruct\EmployeeStruct\obj\Debug\net9.0\EmployeeStruct.AssemblyInfo.cs
+C:\Users\frost\CSharpProjects\SharpCCoding\EmployeeStruct\EmployeeStruct\obj\Debug\net9.0\EmployeeStruct.csproj.CoreCompileInputs.cache
+C:\Users\frost\CSharpProjects\SharpCCoding\EmployeeStruct\EmployeeStruct\obj\Debug\net9.0\EmployeeStruct.sourcelink.json
+C:\Users\frost\CSharpProjects\SharpCCoding\EmployeeStruct\EmployeeStruct\obj\Debug\net9.0\EmployeeStruct.dll
+C:\Users\frost\CSharpProjects\SharpCCoding\EmployeeStruct\EmployeeStruct\obj\Debug\net9.0\refint\EmployeeStruct.dll
+C:\Users\frost\CSharpProjects\SharpCCoding\EmployeeStruct\EmployeeStruct\obj\Debug\net9.0\EmployeeStruct.pdb
+C:\Users\frost\CSharpProjects\SharpCCoding\EmployeeStruct\EmployeeStruct\obj\Debug\net9.0\EmployeeStruct.genruntimeconfig.cache
+C:\Users\frost\CSharpProjects\SharpCCoding\EmployeeStruct\EmployeeStruct\obj\Debug\net9.0\ref\EmployeeStruct.dll

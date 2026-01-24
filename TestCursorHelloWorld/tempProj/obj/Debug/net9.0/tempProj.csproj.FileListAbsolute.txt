@@ -1,0 +1,15 @@
+c:\Users\frost\CSharpProjects\SharpCCoding\TestCursorHelloWorld\tempProj\bin\Debug\net9.0\tempProj.exe
+c:\Users\frost\CSharpProjects\SharpCCoding\TestCursorHelloWorld\tempProj\bin\Debug\net9.0\tempProj.deps.json
+c:\Users\frost\CSharpProjects\SharpCCoding\TestCursorHelloWorld\tempProj\bin\Debug\net9.0\tempProj.runtimeconfig.json
+c:\Users\frost\CSharpProjects\SharpCCoding\TestCursorHelloWorld\tempProj\bin\Debug\net9.0\tempProj.dll
+c:\Users\frost\CSharpProjects\SharpCCoding\TestCursorHelloWorld\tempProj\bin\Debug\net9.0\tempProj.pdb
+c:\Users\frost\CSharpProjects\SharpCCoding\TestCursorHelloWorld\tempProj\obj\Debug\net9.0\tempProj.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\frost\CSharpProjects\SharpCCoding\TestCursorHelloWorld\tempProj\obj\Debug\net9.0\tempProj.AssemblyInfoInputs.cache
+c:\Users\frost\CSharpProjects\SharpCCoding\TestCursorHelloWorld\tempProj\obj\Debug\net9.0\tempProj.AssemblyInfo.cs
+c:\Users\frost\CSharpProjects\SharpCCoding\TestCursorHelloWorld\tempProj\obj\Debug\net9.0\tempProj.csproj.CoreCompileInputs.cache
+c:\Users\frost\CSharpProjects\SharpCCoding\TestCursorHelloWorld\tempProj\obj\Debug\net9.0\tempProj.sourcelink.json
+c:\Users\frost\CSharpProjects\SharpCCoding\TestCursorHelloWorld\tempProj\obj\Debug\net9.0\tempProj.dll
+c:\Users\frost\CSharpProjects\SharpCCoding\TestCursorHelloWorld\tempProj\obj\Debug\net9.0\refint\tempProj.dll
+c:\Users\frost\CSharpProjects\SharpCCoding\TestCursorHelloWorld\tempProj\obj\Debug\net9.0\tempProj.pdb
+c:\Users\frost\CSharpProjects\SharpCCoding\TestCursorHelloWorld\tempProj\obj\Debug\net9.0\tempProj.genruntimeconfig.cache
+c:\Users\frost\CSharpProjects\SharpCCoding\TestCursorHelloWorld\tempProj\obj\Debug\net9.0\ref\tempProj.dll

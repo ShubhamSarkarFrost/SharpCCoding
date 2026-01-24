@@ -1,0 +1,15 @@
+C:\Users\frost\CSharpProjects\SharpCCoding\BinaryAddition\bin\Debug\net9.0\BinaryAddition.exe
+C:\Users\frost\CSharpProjects\SharpCCoding\BinaryAddition\bin\Debug\net9.0\BinaryAddition.deps.json
+C:\Users\frost\CSharpProjects\SharpCCoding\BinaryAddition\bin\Debug\net9.0\BinaryAddition.runtimeconfig.json
+C:\Users\frost\CSharpProjects\SharpCCoding\BinaryAddition\bin\Debug\net9.0\BinaryAddition.dll
+C:\Users\frost\CSharpProjects\SharpCCoding\BinaryAddition\bin\Debug\net9.0\BinaryAddition.pdb
+C:\Users\frost\CSharpProjects\SharpCCoding\BinaryAddition\obj\Debug\net9.0\BinaryAddition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frost\CSharpProjects\SharpCCoding\BinaryAddition\obj\Debug\net9.0\BinaryAddition.AssemblyInfoInputs.cache
+C:\Users\frost\CSharpProjects\SharpCCoding\BinaryAddition\obj\Debug\net9.0\BinaryAddition.AssemblyInfo.cs
+C:\Users\frost\CSharpProjects\SharpCCoding\BinaryAddition\obj\Debug\net9.0\BinaryAddition.csproj.CoreCompileInputs.cache
+C:\Users\frost\CSharpProjects\SharpCCoding\BinaryAddition\obj\Debug\net9.0\BinaryAddition.sourcelink.json
+C:\Users\frost\CSharpProjects\SharpCCoding\BinaryAddition\obj\Debug\net9.0\BinaryAddition.dll
+C:\Users\frost\CSharpProjects\SharpCCoding\BinaryAddition\obj\Debug\net9.0\refint\BinaryAddition.dll
+C:\Users\frost\CSharpProjects\SharpCCoding\BinaryAddition\obj\Debug\net9.0\BinaryAddition.pdb
+C:\Users\frost\CSharpProjects\SharpCCoding\BinaryAddition\obj\Debug\net9.0\BinaryAddition.genruntimeconfig.cache
+C:\Users\frost\CSharpProjects\SharpCCoding\BinaryAddition\obj\Debug\net9.0\ref\BinaryAddition.dll
